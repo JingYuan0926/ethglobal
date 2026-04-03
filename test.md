@@ -320,9 +320,11 @@ graph TB
         Z3[“Wildcard $3k<br/>Novel AI swarm oracle<br/>Self-improving reputation”]
     end
 
-    subgraph HEDERA[“HEDERA - $6,000”]
+    subgraph HEDERA[“HEDERA - $11,500”]
         direction TB
-        H1[“AI and Agentic Payments<br/>Multi-agent payment flows<br/>HTS tokens, HCS audit trail<br/>Scheduled transactions”]
+        H1[“AI and Agentic Payments $6k<br/>Multi-agent payment flows<br/>Hedera Agent Kit settlement<br/>HTS tokens, HCS audit trail”]
+        H2[“Tokenization $2.5k<br/>YES/NO outcome tokens via HTS<br/>Custom fee schedules<br/>Token lifecycle management”]
+        H3[“No Solidity Allowed $3k<br/>SDK-only, no smart contracts<br/>HTS + HCS + Scheduled Txns<br/>Built for Hedera-native devs”]
     end
 ```
 
@@ -554,11 +556,13 @@ graph LR
 | **DeFi App** | $6,000 | AI-native DeFi on 0G | AI prediction market with verifiable inference + autonomous settlement |
 | **Wildcard** | $3,000 | Creative use of 0G stack | Novel swarm oracle with self-improving reputation economy |
 
-### Hedera — $6,000
+### Hedera — $11,500
 
 | Track | Prize | Requirement | How We Qualify |
 |---|---|---|---|
-| **AI & Agentic Payments** | $6,000 | Multi-agent system with real payment flows | Settlement agent + oracle rewards. HTS tokens, HCS audit, scheduled txns |
+| **AI & Agentic Payments** | $6,000 | AI agent with payment/token ops on Hedera Testnet + Hedera Agent Kit | Settlement agent + oracle reward payments. Agent-to-agent micropayments, HCS audit trail |
+| **Tokenization** | $2,500 | Create/manage tokens via HTS with lifecycle ops | YES/NO outcome tokens minted per market via HTS. Custom fee schedules auto-split to oracle pool + treasury |
+| **No Solidity Allowed** | $3,000 | Hedera SDK only, no smart contracts, 2+ native services | HTS for tokens + HCS for voting + Scheduled Transactions for deadlines. All via SDK, zero Solidity |
 
 ---
 
