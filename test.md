@@ -48,7 +48,7 @@ This ensures:
 
 ## ⚡ 3. Optimistic resolution (Fast path)
 
-Markets resolve **quickly by default**, similar to :contentReference[oaicite:0]{index=0}:
+Markets resolve **quickly by default**, similar to UMA's optimistic oracle:
 
 - Initial result is determined using:
   - simple rules  
@@ -252,40 +252,48 @@ Reputation affects:
 
 ```mermaid
 graph TB
-    subgraph USER[“USER LAYER — World App”]
-        U[“User (World ID 4.0 Verified)”]
-        WA[“World Mini App (MiniKit 2.0)”]
+    subgraph USER[“USER LAYER - World App”]
+        U[“User<br/>World ID 4.0 Verified”]
+        WA[“World Mini App<br/>MiniKit 2.0”]
         U --> WA
     end
 
-    subgraph SWARM[“MIRRORFISH SWARM — 0G Network”]
+    subgraph SWARM[“[Project Name] SWARM - 0G Network”]
         direction TB
-        subgraph AGENTS[“OpenClaw Agent Nodes (each = iNFT ERC-7857)”]
-            N1[“Node 1\n(Human A, Rep: 92%)”]
-            N2[“Node 2\n(Human B, Rep: 87%)”]
-            N3[“Node 3\n(Human C, Rep: 95%)”]
-            NN[“Node N\n(Human N, Rep: 78%)”]
+        subgraph AGENTS[“OpenClaw Agent Nodes - each is iNFT ERC-7857”]
+            N1[“Node 1<br/>Human A, Rep 92%”]
+            N2[“Node 2<br/>Human B, Rep 87%”]
+            N3[“Node 3<br/>Human C, Rep 95%”]
+            NN[“Node N<br/>Human N, Rep 78%”]
         end
-        OGC[“0G Compute (TEE)\nSealed AI Inference”]
-        OGS[“0G Storage\nMemory / Evidence / Reputation”]
-        OGX[“0G Chain\niNFT Registry / Agent Identity”]
+        OGC[“0G Compute TEE<br/>Sealed AI Inference”]
+        OGS[“0G Storage<br/>Memory, Evidence, Reputation”]
+        OGX[“0G Chain<br/>iNFT Registry, Agent Identity”]
     end
 
-    subgraph HEDERA[“SETTLEMENT LAYER — Hedera”]
-        HTS[“Hedera Token Service\nYES/NO Outcome Tokens”]
-        HCS[“Hedera Consensus Service\nVotes / Debate / Audit Trail”]
-        HAK[“Hedera Agent Kit\nAutonomous Payouts”]
-        HST[“Scheduled Transactions\nDeadline + Periodic Triggers”]
+    subgraph HEDERA[“SETTLEMENT LAYER - Hedera”]
+        HTS[“Hedera Token Service<br/>YES/NO Outcome Tokens”]
+        HCS[“Hedera Consensus Service<br/>Votes, Debate, Audit Trail”]
+        HAK[“Hedera Agent Kit<br/>Autonomous Payouts”]
+        HST[“Scheduled Transactions<br/>Deadline + Periodic Triggers”]
     end
 
-    WA -->|”Place Bets (HBAR)”| HTS
+    WA -->|”Place Bets HBAR”| HTS
     WA -->|”Browse Markets”| OGS
-    U -.->|”1 Human = 1 Node\n(World Agent Kit)”| AGENTS
+    U -.->|”1 Human = 1 Node<br/>World Agent Kit”| AGENTS
 
-    N1 & N2 & N3 & NN -->|”Run Inference”| OGC
-    N1 & N2 & N3 & NN -->|”Read/Write Evidence”| OGS
-    N1 & N2 & N3 & NN -->|”iNFT Identity”| OGX
-    N1 & N2 & N3 & NN -->|”Post Votes + Reasoning”| HCS
+    N1 -->|”Run Inference”| OGC
+    N2 -->|”Run Inference”| OGC
+    N3 -->|”Run Inference”| OGC
+    NN -->|”Run Inference”| OGC
+    N1 -->|”Evidence”| OGS
+    N2 -->|”Evidence”| OGS
+    N3 -->|”Evidence”| OGS
+    NN -->|”Evidence”| OGS
+    N1 -->|”Vote”| HCS
+    N2 -->|”Vote”| HCS
+    N3 -->|”Vote”| HCS
+    NN -->|”Vote”| HCS
 
     HST -->|”Trigger Resolution”| AGENTS
     HCS -->|”Final Result”| HAK
@@ -298,23 +306,23 @@ graph TB
 
 ```mermaid
 graph TB
-    subgraph WORLD[“WORLD — $20,000”]
+    subgraph WORLD[“WORLD - $20,000”]
         direction TB
-        W1[“Agent Kit — $8,000\n━━━━━━━━━━━━━━━━━━━\n• Each oracle node = AI agent\n  backed by verified human\n• Settlement agent identity\n• Market creation agent identity\n• Proves agent’s human is real”]
-        W2[“World ID 4.0 — $8,000\n━━━━━━━━━━━━━━━━━━━\n• Bettors: 1 person = 1 account\n• Oracle: 1 person = 1 iNFT node\n• Dual sybil resistance\n  (both sides of market)\n• Proof validated on-chain”]
-        W3[“MiniKit 2.0 — $4,000\n━━━━━━━━━━━━━━━━━━━\n• Betting UI as Mini App\n• View markets + results\n• World wallet payments\n• Deploy on World Chain”]
+        W1[“Agent Kit $8k<br/>Oracle node = AI agent backed by verified human<br/>Settlement + market creation agent identity”]
+        W2[“World ID 4.0 $8k<br/>1 person = 1 betting account<br/>1 person = 1 oracle iNFT node<br/>Dual sybil resistance”]
+        W3[“MiniKit 2.0 $4k<br/>Betting UI as Mini App<br/>World wallet payments”]
     end
 
-    subgraph ZG[“0G — $15,000”]
+    subgraph ZG[“0G - $15,000”]
         direction TB
-        Z1[“OpenClaw Agent — $6,000\n━━━━━━━━━━━━━━━━━━━\n• Research swarm = OpenClaw\n• Oracle swarm = OpenClaw\n• 0G Compute for inference\n• 0G Storage for memory\n• iNFTs for agent ownership”]
-        Z2[“DeFi App — $6,000\n━━━━━━━━━━━━━━━━━━━\n• AI prediction market\n• Verifiable/sealed inference\n• On-chain model provenance\n• Autonomous settlement”]
-        Z3[“Wildcard — $3,000\n━━━━━━━━━━━━━━━━━━━\n• Novel AI swarm oracle\n• Self-improving reputation\n• Evolving iNFT agents”]
+        Z1[“OpenClaw Agent $6k<br/>Research + Oracle swarms<br/>0G Compute, Storage, iNFTs”]
+        Z2[“DeFi App $6k<br/>AI prediction market<br/>Verifiable inference + settlement”]
+        Z3[“Wildcard $3k<br/>Novel AI swarm oracle<br/>Self-improving reputation”]
     end
 
-    subgraph HEDERA[“HEDERA — $6,000”]
+    subgraph HEDERA[“HEDERA - $6,000”]
         direction TB
-        H1[“AI & Agentic Payments\n━━━━━━━━━━━━━━━━━━━\n• Multi-agent payment flows\n• Hedera Agent Kit settlement\n• HTS tokens (YES/NO)\n• Custom fee schedules\n• Scheduled transactions\n• Full audit trail on HCS”]
+        H1[“AI and Agentic Payments<br/>Multi-agent payment flows<br/>HTS tokens, HCS audit trail<br/>Scheduled transactions”]
     end
 ```
 
@@ -326,36 +334,42 @@ graph TB
 graph TD
     subgraph RS[“SWARM 1: RESEARCH”]
         direction TB
-        R1[“Agent A\nNews Scraper”]
-        R2[“Agent B\nOn-chain Data”]
-        R3[“Agent C\nAPI Monitor”]
-        R4[“Agent D\nSocial Signals”]
-        R1 & R2 & R3 & R4 --> EP[“Evidence Pool\n(0G Storage)”]
+        R1[“Agent A<br/>News Scraper”]
+        R2[“Agent B<br/>On-chain Data”]
+        R3[“Agent C<br/>API Monitor”]
+        R4[“Agent D<br/>Social Signals”]
+        R1 --> EP[“Evidence Pool<br/>0G Storage”]
+        R2 --> EP
+        R3 --> EP
+        R4 --> EP
     end
 
     subgraph MS[“SWARM 2: MARKET CREATION”]
         direction TB
         M1[“Trend Detector”] --> M2[“Criteria Definer”]
         M2 --> M3[“Market Validator”]
-        M3 --> MKT[“Deploy Market\n(0G Chain + Hedera HTS)”]
+        M3 --> MKT[“Deploy Market<br/>0G Chain + Hedera HTS”]
     end
 
     subgraph OS[“SWARM 3: ORACLE RESOLUTION”]
         direction TB
-        O1[“Node 1 (iNFT)”]
-        O2[“Node 2 (iNFT)”]
-        O3[“Node 3 (iNFT)”]
-        O4[“Node N (iNFT)”]
-        O1 & O2 & O3 & O4 --> CV[“Phase 1: Commit\n(Hidden Votes)”]
-        CV --> RV[“Phase 2: Reveal\n(Votes on HCS)”]
-        RV --> DP[“Phase 3: Discussion\n(Reasoning on HCS)”]
+        O1[“Node 1 iNFT”]
+        O2[“Node 2 iNFT”]
+        O3[“Node 3 iNFT”]
+        O4[“Node N iNFT”]
+        O1 --> CV[“Phase 1: Commit<br/>Hidden Votes”]
+        O2 --> CV
+        O3 --> CV
+        O4 --> CV
+        CV --> RV[“Phase 2: Reveal<br/>Votes on HCS”]
+        RV --> DP[“Phase 3: Discussion<br/>Reasoning on HCS”]
         DP --> RESULT[“Consensus Result”]
     end
 
     EP -.->|”Feeds evidence”| OS
     RS -.->|”Trending topics”| MS
     MKT -.->|”Deadline trigger”| OS
-    RESULT --> SA[“Settlement Agent\n(Hedera Agent Kit)”]
+    RESULT --> SA[“Settlement Agent<br/>Hedera Agent Kit”]
     SA --> W[“Winners get HBAR”]
     SA --> REP[“Reputation Updated”]
 ```
@@ -418,30 +432,30 @@ sequenceDiagram
 
 ```mermaid
 graph LR
-    subgraph F1[“FLOW 1 — User Bets”]
-        U1[“User\n(World ID)”] -->|HBAR| MC[“Market Contract”]
-        MC -->|Mint| T1[“YES/NO Tokens\n(HTS)”]
+    subgraph F1[“FLOW 1 - User Bets”]
+        U1[“User<br/>World ID”] -->|HBAR| MC[“Market Contract”]
+        MC -->|Mint| T1[“YES/NO Tokens<br/>HTS”]
         T1 --> U1
     end
 
-    subgraph F2[“FLOW 2 — Fee Split”]
+    subgraph F2[“FLOW 2 - Fee Split”]
         TRADE[“Every Trade”] -->|”HTS Auto-Fee”| SPLIT{“3% Split”}
-        SPLIT -->|2%| POOL[“Oracle Node Pool”]
-        SPLIT -->|1%| TREASURY[“Platform Treasury”]
+        SPLIT -->|”2%”| POOL[“Oracle Node Pool”]
+        SPLIT -->|”1%”| TREASURY[“Platform Treasury”]
     end
 
-    subgraph F3[“FLOW 3 — Oracle Reward”]
-        PA[“Platform Agent”] -->|”Hedera Agent Kit”| CORRECT[“Correct Nodes\n(weighted by rep)”]
+    subgraph F3[“FLOW 3 - Oracle Reward”]
+        PA[“Platform Agent”] -->|”Hedera Agent Kit”| CORRECT[“Correct Nodes<br/>weighted by rep”]
     end
 
-    subgraph F4[“FLOW 4 — Settlement”]
+    subgraph F4[“FLOW 4 - Settlement”]
         SA2[“Settlement Agent”] -->|”Read HCS”| RESULT2[“Oracle Result”]
         SA2 -->|”Auto HBAR Transfer”| WIN[“Winners Paid”]
         SA2 -->|”Burn”| LOSE[“Losing Tokens Burned”]
     end
 
-    subgraph F5[“FLOW 5 — Reputation”]
-        RES[“Resolution Complete”] -->|”+1 / -1”| REP[“Rep Scores\n(0G Storage)”]
+    subgraph F5[“FLOW 5 - Reputation”]
+        RES[“Resolution Complete”] -->|”plus or minus 1”| REP[“Rep Scores<br/>0G Storage”]
         RES -->|”Log”| AUDIT[“HCS Audit Trail”]
     end
 ```
@@ -454,24 +468,24 @@ graph LR
 graph TD
     subgraph REP[“REPUTATION ENGINE”]
         direction TB
-        NEW[“New Node Joins\nRep = 50%”]
-        VOTE{“Voted with\nmajority?”}
+        NEW[“New Node Joins<br/>Rep = 50%”]
+        VOTE{“Voted with<br/>majority?”}
         NEW --> VOTE
-        VOTE -->|YES| UP[“+Rep\n(scaled by market size)”]
-        VOTE -->|NO| DOWN[“-Rep\n(scaled by market size)”]
-        VOTE -->|”Didn’t vote”| PENALTY[“-Small Penalty”]
+        VOTE -->|YES| UP[“+Rep<br/>scaled by market size”]
+        VOTE -->|NO| DOWN[“-Rep<br/>scaled by market size”]
+        VOTE -->|”Did not vote”| PENALTY[“-Small Penalty”]
 
         UP --> EFFECTS
         DOWN --> EFFECTS
         PENALTY --> EFFECTS
 
-        EFFECTS[“Reputation Affects:\n• Vote weight in consensus\n• Selection probability\n• Reward share\n• Trust level”]
+        EFFECTS[“Reputation Affects:<br/>Vote weight in consensus<br/>Selection probability<br/>Reward share<br/>Trust level”]
     end
 
     subgraph STORAGE[“Where Rep Lives”]
-        S1[“0G Storage — permanent scores”]
-        S2[“Hedera HCS — auditable changes”]
-        S3[“iNFT (ERC-7857) — tied to identity”]
+        S1[“0G Storage - permanent scores”]
+        S2[“Hedera HCS - auditable changes”]
+        S3[“iNFT ERC-7857 - tied to identity”]
     end
 
     EFFECTS --> STORAGE
@@ -483,21 +497,21 @@ graph TD
 
 ```mermaid
 graph LR
-    INPUT[“Market Question\n+ Data Sources”] --> TEE
+    INPUT[“Market Question<br/>+ Data Sources”] --> TEE
 
-    subgraph TEE[“0G COMPUTE — SECURE ENCLAVE”]
+    subgraph TEE[“0G COMPUTE - SECURE ENCLAVE”]
         direction TB
-        AI[“AI Model Runs Here\n(sealed, tamper-proof)”]
-        ANALYSIS[“Data Analysis\n(node operator CANNOT see/modify)”]
+        AI[“AI Model Runs Here<br/>sealed, tamper-proof”]
+        ANALYSIS[“Data Analysis<br/>node operator CANNOT modify”]
         DECISION[“Decision: YES / NO”]
         AI --> ANALYSIS --> DECISION
     end
 
     TEE --> OUTPUT[“Answer + TEE Attestation”]
 
-    OUTPUT --> PROVES[“Attestation Proves:\n• Specific AI model was used\n• Specific data was analyzed\n• Result was NOT tampered with\n• Hardware signature confirms integrity”]
+    OUTPUT --> PROVES[“Attestation Proves:<br/>Specific AI model was used<br/>Specific data was analyzed<br/>Result was NOT tampered with<br/>Hardware signature confirms integrity”]
 
-    PROVES --> HCS2[“Posted to Hedera HCS\n(anyone can verify)”]
+    PROVES --> HCS2[“Posted to Hedera HCS<br/>anyone can verify”]
 ```
 
 ---
@@ -552,8 +566,5 @@ graph LR
 
 ```mermaid
 graph LR
-    P1[“PHASE 1\n━━━━━━━━━\n0G Core\n• OpenClaw agents\n• Basic inference\n• iNFT identity\n• 0G Storage”] -->
-    P2[“PHASE 2\n━━━━━━━━━\nHedera Layer\n• HTS tokens\n• HCS voting\n• Agent Kit payouts\n• Scheduled txns”] -->
-    P3[“PHASE 3\n━━━━━━━━━\nWorld Layer\n• World ID verify\n• MiniKit frontend\n• AgentKit agents”] -->
-    P4[“PHASE 4\n━━━━━━━━━\nPolish\n• Reputation system\n• Demo flow\n• README + video”]
+    P1[“PHASE 1<br/>0G Core<br/>OpenClaw agents<br/>Basic inference<br/>iNFT identity”] --> P2[“PHASE 2<br/>Hedera Layer<br/>HTS tokens<br/>HCS voting<br/>Agent Kit payouts”] --> P3[“PHASE 3<br/>World Layer<br/>World ID verify<br/>MiniKit frontend<br/>AgentKit agents”] --> P4[“PHASE 4<br/>Polish<br/>Reputation system<br/>Demo flow<br/>README + video”]
 ```
