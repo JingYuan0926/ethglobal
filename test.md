@@ -258,7 +258,7 @@ graph TB
         U --> WA
     end
 
-    subgraph SWARM[“[Project Name] SWARM - 0G Network”]
+    subgraph SWARM[“Project Name SWARM - 0G Network”]
         direction TB
         subgraph AGENTS[“OpenClaw Agent Nodes - each is iNFT ERC-7857”]
             N1[“Node 1<br/>Human A, Rep 92%”]
