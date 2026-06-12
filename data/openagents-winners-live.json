@@ -1,0 +1,496 @@
+[
+  {
+    "slug": "clan-world-aelder-g4i6y",
+    "name": "Clan World: Ælder...",
+    "prizes": [
+      {
+        "sponsor": "ETHGlobal",
+        "trackName": "🏆 Open Agents 2026 Finalist",
+        "prizeType": "finalist",
+        "placement": "finalist",
+        "rawText": "ETHGlobal -  🏆 Open Agents 2026 Finalist"
+      }
+    ],
+    "githubUrl": "https://github.com/OmniPass-world/clan-world",
+    "demoUrl": "https://app.clan-world.com"
+  },
+  {
+    "slug": "dromeus-j1j2t",
+    "name": "Dromeus",
+    "prizes": [
+      {
+        "sponsor": "Gensyn",
+        "trackName": "Best Application of Agent eXchange Layer (AXL)",
+        "prizeType": "placed",
+        "placement": "1st",
+        "rawText": "Gensyn - Best Application of Agent eXchange Layer (AXL) 1st place"
+      }
+    ],
+    "githubUrl": "https://github.com/devesh1011/dromeus",
+    "demoUrl": "https://x.com/ethglobal"
+  },
+  {
+    "slug": "federated-reserve-n10yp",
+    "name": "Federated Reserve",
+    "prizes": [
+      {
+        "sponsor": "0G",
+        "trackName": "Best Autonomous Agents, Swarms & iNFT Innovations",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "0G -  Best Autonomous Agents, Swarms & iNFT Innovations"
+      }
+    ],
+    "githubUrl": "https://github.com/narasim-teja/federated-reserve",
+    "demoUrl": "https://fedreserve.live"
+  },
+  {
+    "slug": "ensign-am7ya",
+    "name": "ENSign",
+    "prizes": [
+      {
+        "sponsor": "ENS",
+        "trackName": "Most Creative Use of ENS",
+        "prizeType": "placed",
+        "placement": "1st",
+        "rawText": "ENS - Most Creative Use of ENS 1st place"
+      }
+    ],
+    "githubUrl": "https://github.com/LeoFranklin015/ENSign",
+    "demoUrl": "https://ens-ign.vercel.app/"
+  },
+  {
+    "slug": "cortex-cactx",
+    "name": "cortex",
+    "prizes": [
+      {
+        "sponsor": "0G",
+        "trackName": "Best Agent Framework, Tooling & Core Extensions 4th place",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "0G - Best Agent Framework, Tooling & Core Extensions 4th place"
+      }
+    ],
+    "githubUrl": "https://github.com/Aghostraa/focus-swarm",
+    "demoUrl": "https://focus-swarm.vercel.app/protocol-twins"
+  },
+  {
+    "slug": "keeper-gate-hr2jk",
+    "name": "Keeper-Gate",
+    "prizes": [
+      {
+        "sponsor": "KeeperHub",
+        "trackName": "Best Use of KeeperHub",
+        "prizeType": "placed",
+        "placement": "2nd",
+        "rawText": "KeeperHub - Best Use of KeeperHub 2nd place"
+      }
+    ],
+    "githubUrl": "https://github.com/chronogist/keeper-gate",
+    "demoUrl": "https://www.npmjs.com/~keepergate"
+  },
+  {
+    "slug": "mnemosyne-4ga04",
+    "name": "Mnemosyne",
+    "prizes": [
+      {
+        "sponsor": "ETHGlobal",
+        "trackName": "🏆 Open Agents 2026 Finalist",
+        "prizeType": "finalist",
+        "placement": "finalist",
+        "rawText": "ETHGlobal -  🏆 Open Agents 2026 Finalist"
+      }
+    ],
+    "githubUrl": "https://github.com/Lucas749/Mnemosyne",
+    "demoUrl": "https://mnemosyne-protocol.vercel.app/"
+  },
+  {
+    "slug": "brainpedia-ctx9g",
+    "name": "Brainpedia",
+    "prizes": [
+      {
+        "sponsor": "0G",
+        "trackName": "Best Autonomous Agents, Swarms & iNFT Innovations",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "0G -  Best Autonomous Agents, Swarms & iNFT Innovations"
+      },
+      {
+        "sponsor": "ENS",
+        "trackName": "Best ENS Integration for AI Agents",
+        "prizeType": "placed",
+        "placement": "2nd",
+        "rawText": "ENS - Best ENS Integration for AI Agents 2nd place"
+      }
+    ],
+    "githubUrl": "https://github.com/0xYudhishthra/brainpedia",
+    "demoUrl": "https://brainpedia.up.railway.app/"
+  },
+  {
+    "slug": "pythia-gj44b",
+    "name": "Pythia",
+    "prizes": [
+      {
+        "sponsor": "Gensyn",
+        "trackName": "Best Application of Agent eXchange Layer (AXL)",
+        "prizeType": "placed",
+        "placement": "2nd",
+        "rawText": "Gensyn - Best Application of Agent eXchange Layer (AXL) 2nd place"
+      }
+    ],
+    "githubUrl": "https://github.com/LogicalGuy77/pythia",
+    "demoUrl": "https://pythia-zeta.vercel.app/"
+  },
+  {
+    "slug": "computepool-cxb6m",
+    "name": "ComputePool",
+    "prizes": [
+      {
+        "sponsor": "KeeperHub",
+        "trackName": "Builder Feedback Bounty",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "KeeperHub -  Builder Feedback Bounty"
+      }
+    ],
+    "githubUrl": "https://github.com/Philotheephilix/computepool",
+    "demoUrl": "https://computepool.vercel.app"
+  },
+  {
+    "slug": "zw-arm-enbkh",
+    "name": "ZW.ARM",
+    "prizes": [
+      {
+        "sponsor": "KeeperHub",
+        "trackName": "Best Use of KeeperHub",
+        "prizeType": "placed",
+        "placement": "3rd",
+        "rawText": "KeeperHub - Best Use of KeeperHub 3rd place"
+      }
+    ],
+    "githubUrl": "https://github.com/chrsnikhil/ZW.ARM",
+    "demoUrl": "https://zw-arm.vercel.app/"
+  },
+  {
+    "slug": "ffe-nmr2w",
+    "name": "FFE",
+    "prizes": [
+      {
+        "sponsor": "0G",
+        "trackName": "Best Agent Framework, Tooling & Core Extensions 5th place",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "0G - Best Agent Framework, Tooling & Core Extensions 5th place"
+      }
+    ],
+    "githubUrl": "https://github.com/mandatedisrael/federated-finetuning-extension",
+    "demoUrl": "https://x.com/ethglobal"
+  },
+  {
+    "slug": "aegis402-o8x6z",
+    "name": "Aegis402",
+    "prizes": [
+      {
+        "sponsor": "ETHGlobal",
+        "trackName": "🏆 Open Agents 2026 Finalist",
+        "prizeType": "finalist",
+        "placement": "finalist",
+        "rawText": "ETHGlobal -  🏆 Open Agents 2026 Finalist"
+      }
+    ],
+    "githubUrl": "https://github.com/AEGIS402/post-audit",
+    "demoUrl": "http://aegis402.s3-website.ap-northeast-2.amazonaws.com/"
+  },
+  {
+    "slug": "daio-zce3h",
+    "name": "DAIO",
+    "prizes": [
+      {
+        "sponsor": "ETHGlobal",
+        "trackName": "🏆 Open Agents 2026 Finalist",
+        "prizeType": "finalist",
+        "placement": "finalist",
+        "rawText": "ETHGlobal -  🏆 Open Agents 2026 Finalist"
+      }
+    ],
+    "githubUrl": "https://github.com/openDAIO/agents",
+    "demoUrl": "https://opendaio.com/"
+  },
+  {
+    "slug": "slopstock-7zgd6",
+    "name": "Slopstock",
+    "prizes": [
+      {
+        "sponsor": "ETHGlobal",
+        "trackName": "🏆 Open Agents 2026 Finalist",
+        "prizeType": "finalist",
+        "placement": "finalist",
+        "rawText": "ETHGlobal -  🏆 Open Agents 2026 Finalist"
+      }
+    ],
+    "githubUrl": "https://github.com/forever8896/slopstock",
+    "demoUrl": "https://slopstock.vercel.app/"
+  },
+  {
+    "slug": "alps-1yzq7",
+    "name": "Alps",
+    "prizes": [
+      {
+        "sponsor": "Uniswap",
+        "trackName": "Best Uniswap API integration",
+        "prizeType": "placed",
+        "placement": "3rd",
+        "rawText": "Uniswap Foundation - Best Uniswap API integration 3rd place"
+      }
+    ],
+    "githubUrl": "https://github.com/yanisepfl/alps",
+    "demoUrl": "https://alps-six.vercel.app/"
+  },
+  {
+    "slug": "tradewise-agentlab-hpg3y",
+    "name": "Tradewise Agentlab",
+    "prizes": [
+      {
+        "sponsor": "KeeperHub",
+        "trackName": "Best Use of KeeperHub",
+        "prizeType": "placed",
+        "placement": "1st",
+        "rawText": "KeeperHub - Best Use of KeeperHub 1st place"
+      }
+    ],
+    "githubUrl": "https://github.com/fritzschoff/hackagent",
+    "demoUrl": "https://hackagent-nine.vercel.app/"
+  },
+  {
+    "slug": "hermes-fonos",
+    "name": "Hermes",
+    "prizes": [
+      {
+        "sponsor": "ENS",
+        "trackName": "Most Creative Use of ENS",
+        "prizeType": "placed",
+        "placement": "3rd",
+        "rawText": "ENS - Most Creative Use of ENS 3rd place"
+      }
+    ],
+    "githubUrl": "https://github.com/Red3lue/Hermes",
+    "demoUrl": "https://hermes-web-734709088945.us-central1.run.app"
+  },
+  {
+    "slug": "mnemo-agents-js7hy",
+    "name": "Mnemo Agents",
+    "prizes": [
+      {
+        "sponsor": "0G",
+        "trackName": "Best Autonomous Agents, Swarms & iNFT Innovations",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "0G -  Best Autonomous Agents, Swarms & iNFT Innovations"
+      }
+    ],
+    "githubUrl": "https://github.com/KennieHarold/mnemosyne",
+    "demoUrl": "https://mnemosyne-app-five.vercel.app/"
+  },
+  {
+    "slug": "acl-6hwos",
+    "name": "ACL",
+    "prizes": [
+      {
+        "sponsor": "0G",
+        "trackName": "Best Agent Framework, Tooling & Core Extensions",
+        "prizeType": "placed",
+        "placement": "1st",
+        "rawText": "0G - Best Agent Framework, Tooling & Core Extensions 1st place"
+      },
+      {
+        "sponsor": "ENS",
+        "trackName": "Best ENS Integration for AI Agents",
+        "prizeType": "placed",
+        "placement": "1st",
+        "rawText": "ENS - Best ENS Integration for AI Agents 1st place"
+      }
+    ],
+    "githubUrl": "https://github.com/cqlyj/ACL",
+    "demoUrl": "https://youtu.be/euABVPWfpKI"
+  },
+  {
+    "slug": "skillname-32dra",
+    "name": "Skillname",
+    "prizes": [
+      {
+        "sponsor": "ENS",
+        "trackName": "Best ENS Integration for AI Agents",
+        "prizeType": "placed",
+        "placement": "3rd",
+        "rawText": "ENS - Best ENS Integration for AI Agents 3rd place"
+      }
+    ],
+    "githubUrl": "https://github.com/hien-p/Skillname",
+    "demoUrl": "https://staging.skillname.pages.dev/"
+  },
+  {
+    "slug": "zuno-h09mv",
+    "name": "Zuno",
+    "prizes": [
+      {
+        "sponsor": "Uniswap",
+        "trackName": "Best Uniswap API integration",
+        "prizeType": "placed",
+        "placement": "1st",
+        "rawText": "Uniswap Foundation - Best Uniswap API integration 1st place"
+      }
+    ],
+    "githubUrl": "https://github.com/Meriem-BM/zuno",
+    "demoUrl": "https://zuno-suw4.onrender.com"
+  },
+  {
+    "slug": "moai-u3zc7",
+    "name": "Moai",
+    "prizes": [
+      {
+        "sponsor": "Uniswap",
+        "trackName": "Best Uniswap API integration",
+        "prizeType": "placed",
+        "placement": "2nd",
+        "rawText": "Uniswap Foundation - Best Uniswap API integration 2nd place"
+      }
+    ],
+    "githubUrl": "https://github.com/0xpochita/moai",
+    "demoUrl": "https://moai-uniswap.vercel.app"
+  },
+  {
+    "slug": "immunity-urob5",
+    "name": "Immunity",
+    "prizes": [
+      {
+        "sponsor": "0G",
+        "trackName": "Best Agent Framework, Tooling & Core Extensions",
+        "prizeType": "placed",
+        "placement": "3rd",
+        "rawText": "0G - Best Agent Framework, Tooling & Core Extensions 3rd place"
+      }
+    ],
+    "githubUrl": "https://github.com/immunity-protocol/sdk",
+    "demoUrl": "https://immunity-protocol.com"
+  },
+  {
+    "slug": "axl-opentelemetry-7re2h",
+    "name": "AXL OpenTelemetry",
+    "prizes": [
+      {
+        "sponsor": "Gensyn",
+        "trackName": "Best Application of Agent eXchange Layer (AXL)",
+        "prizeType": "placed",
+        "placement": "3rd",
+        "rawText": "Gensyn - Best Application of Agent eXchange Layer (AXL) 3rd place"
+      }
+    ],
+    "githubUrl": "https://github.com/Metroxe/axl-otel",
+    "demoUrl": "https://axl-otel-demo.boilerroom.tech"
+  },
+  {
+    "slug": "agentmeshx-jq8hz",
+    "name": "AgentMeshx",
+    "prizes": [
+      {
+        "sponsor": "0G",
+        "trackName": "Best Autonomous Agents, Swarms & iNFT Innovations",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "0G -  Best Autonomous Agents, Swarms & iNFT Innovations"
+      }
+    ],
+    "githubUrl": "https://github.com/dmustapha/agentmesh",
+    "demoUrl": "https://agentmesh-rho.vercel.app"
+  },
+  {
+    "slug": "common-os-ywv7j",
+    "name": "Common OS",
+    "prizes": [
+      {
+        "sponsor": "ETHGlobal",
+        "trackName": "🏆 Open Agents 2026 Finalist",
+        "prizeType": "finalist",
+        "placement": "finalist",
+        "rawText": "ETHGlobal -  🏆 Open Agents 2026 Finalist"
+      }
+    ],
+    "githubUrl": "https://github.com/Arttribute/common-os",
+    "demoUrl": "https://common-os-web.vercel.app/"
+  },
+  {
+    "slug": "reckon402-y1gr3",
+    "name": "Reckon402",
+    "prizes": [
+      {
+        "sponsor": "ENS",
+        "trackName": "Most Creative Use of ENS",
+        "prizeType": "placed",
+        "placement": "2nd",
+        "rawText": "ENS - Most Creative Use of ENS 2nd place"
+      }
+    ],
+    "githubUrl": "https://github.com/hamiha70/reckon402",
+    "demoUrl": "https://www.reckon402.com"
+  },
+  {
+    "slug": "codeguardian-inft-0u905",
+    "name": "CodeGuardian iNFT",
+    "prizes": [
+      {
+        "sponsor": "0G",
+        "trackName": "Best Autonomous Agents, Swarms & iNFT Innovations",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "0G -  Best Autonomous Agents, Swarms & iNFT Innovations"
+      }
+    ],
+    "githubUrl": "https://github.com/fefe102/Proof-of-Intelligence-Explorer",
+    "demoUrl": "https://proof-of-intelligence-explorer.vercel.app"
+  },
+  {
+    "slug": "mendel-319b2",
+    "name": "Mendel",
+    "prizes": [
+      {
+        "sponsor": "0G",
+        "trackName": "Best Agent Framework, Tooling & Core Extensions",
+        "prizeType": "placed",
+        "placement": "2nd",
+        "rawText": "0G - Best Agent Framework, Tooling & Core Extensions 2nd place"
+      }
+    ],
+    "githubUrl": "https://github.com/queenleoa/mendel",
+    "demoUrl": "https://mendel-three.vercel.app/"
+  },
+  {
+    "slug": "lplens-7sijq",
+    "name": "LPlens",
+    "prizes": [
+      {
+        "sponsor": "ETHGlobal",
+        "trackName": "🏆 Open Agents 2026 Finalist",
+        "prizeType": "finalist",
+        "placement": "finalist",
+        "rawText": "ETHGlobal -  🏆 Open Agents 2026 Finalist"
+      }
+    ],
+    "githubUrl": "https://github.com/JeanBaptisteDurand/Open_Agent_2026",
+    "demoUrl": "https://x.com/ethglobal"
+  },
+  {
+    "slug": "evoyield-s9b61",
+    "name": "EvoYield",
+    "prizes": [
+      {
+        "sponsor": "KeeperHub",
+        "trackName": "Builder Feedback Bounty",
+        "prizeType": "other",
+        "placement": null,
+        "rawText": "KeeperHub -  Builder Feedback Bounty"
+      }
+    ],
+    "githubUrl": "https://github.com/SudeepGowda55/EvoYield",
+    "demoUrl": "https://evoyield.vercel.app/ "
+  }
+]

@@ -1,0 +1,3924 @@
+[
+  {
+    "name": "Superps",
+    "slug": "superps-o7sfj",
+    "description": "Superps is agent-swarm intelligent perp dex which evolves over time",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agrobase",
+    "slug": "agrobase-pfpa4",
+    "description": "Web3 microloans & weather insurance platform for African farmers on Base.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Conclave",
+    "slug": "conclave-u2mh2",
+    "description": "Five LLM agents argue over your money and execute them onchain",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentRadar",
+    "slug": "agentradar-4dx17",
+    "description": "AgentRadar is the ENS-native discovery and identity layer for the agent economy.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Clan World: Ælder...",
+    "slug": "clan-world-aelder-g4i6y",
+    "description": "4 AI agents play a fully onchain game. Collaboration, negotiations, bartering, and betrayal.",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Rebalancer",
+    "slug": "rebalancer-vaz83",
+    "description": "iNFT-owned LP rebalancer: on-chain authority + portable decision records for Uniswap positions",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "0G SkillGate",
+    "slug": "0g-skillgate-xja63",
+    "description": "Tamper-evident pre-install security gate for OpenClaw-style agent skills.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeadAgent",
+    "slug": "deadagent-5iwat",
+    "description": "AI-powered digital estate protocol automating crypto inheritance, liquidations, and asset handoffs",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AXL Hub",
+    "slug": "axl-hub-zzvp0",
+    "description": "AXL Hub is where agents can create graphs of workflows easy to understand and execute them.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sibyl",
+    "slug": "sibyl-3rx5x",
+    "description": "Permissionless mesh of AI trading agents. Share a strategy, run anyone's, split profits over Gensyn.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GuardianKit",
+    "slug": "guardiankit-52h0u",
+    "description": "AI Wallet Guardians, owned as ERC-7857 iNFTs on 0G Chain, with persistent memory.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Omikuji Hub",
+    "slug": "omikuji-hub-74fsi",
+    "description": "AI fortune oracle: pull a Japanese omikuji, get paid in USDC on-chain via KeeperHub.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IntentMesh",
+    "slug": "intentmesh-oxzxh",
+    "description": "IntentMesh: AI agents execute user intent end-to-end with verifiable on-chain proofs.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentMandate",
+    "slug": "agentmandate-u1g6j",
+    "description": "Onchain trust layer for AI agents trading on Uniswap. Bound the agent, not the keys.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bunkermode",
+    "slug": "bunkermode-9qoyi",
+    "description": "AI agent that detects DeFi attacks before the cascade. Exits your positions before the damage.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Murmur",
+    "slug": "murmur-tokxi",
+    "description": "Dark pool for autonomous agents. Private quotes over Gensyn AXL, atomic on-chain settlement.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Homer's Adventure",
+    "slug": "homers-adventure-mxz6s",
+    "description": "Homer's Adventure is an experimental agentic adventure game with dynamic generation for Web3.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mobile Twin",
+    "slug": "mobile-twin-51ryv",
+    "description": "Get a clone of you using your mobile device! Record yourself using your mobile device!",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Charon",
+    "slug": "charon-x0r1r",
+    "description": "Send secrets on conditions, no trust needed—Charon locks them in TEEs and releases on cue.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RB Agent Protocol",
+    "slug": "rb-agent-protocol-w2dt1",
+    "description": "A rule based agent framework: LLMs propose, deterministic rules validate, adapters execute.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentForge",
+    "slug": "agentforge-t3z5j",
+    "description": "ERC-7857 intelligent NFT breeding & arena protocol where agents inherit encrypted traits compete",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rumble",
+    "slug": "rumble-o0wse",
+    "description": "Autonomous Uniswap agents for trading & liquidity with a visual builder",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TriageKit",
+    "slug": "triagekit-2h2fh",
+    "description": "TriageKit serves as a cooperative risk response for Agentic DeFi",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "pair gate",
+    "slug": "pair-gate-bd3jn",
+    "description": "this is a unfinished project I cannot finish it in time.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Omeswap",
+    "slug": "omeswap-1ge2q",
+    "description": "Six AI agents vote on every trade—explainable crypto & equity copilot with strict risk limits",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sayben",
+    "slug": "sayben-bb1x2",
+    "description": "Sayben is the identity, safety, and interaction-graph layer for autonomous agents",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AI Treasury Council",
+    "slug": "ai-treasury-council-w7ich",
+    "description": "5+1 AI agents debate DAO treasury, cite sources, earn on-chain reputation. Audit trail on 0G.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nyxie",
+    "slug": "nyxie-ry2jk",
+    "description": "Nyxie: AI assistant for meetings, tasks, and payments , so life admin doesn’t slip into void.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Astron",
+    "slug": "astron-8xffx",
+    "description": "Replicate anyone's writing style into a self-learning iNFT on 0G .",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "era",
+    "slug": "era-a1dv9",
+    "description": "Coding agent powered by a multi-persona swarm: sealed inference on 0G, iNFT personas, ENS subnames",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "0friction",
+    "slug": "0friction-o0foa",
+    "description": "Gasless cross-chain AI compute via 0G — pay with USDC, no bridging required",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dromeus",
+    "slug": "dromeus-j1j2t",
+    "description": "Decentralized, private federated ML training marketplace over Gensyn AXL's encrypted P2P mesh.",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "zaxt3"
+    ]
+  },
+  {
+    "name": "Sentinel",
+    "slug": "sentinel-9eupk",
+    "description": "AI-powered multi-agent DeFi swarms execute trading strategies autonomously 24/7",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sentinel",
+    "slug": "sentinel-9eupk",
+    "description": "AI-powered multi-agent DeFi swarms execute trading strategies autonomously 24/7",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZKai",
+    "slug": "zkai-s0hfx",
+    "description": "Private AI inference marketplace verified inside TEEs and settled on the 0G chain.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Node Nexus",
+    "slug": "node-nexus-r5379",
+    "description": "Decentralized local WebOps agents using Gensyn AXL with 0G payments, inference, and storage.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hustl3",
+    "slug": "hustl3-de5q3",
+    "description": "Hustl3 is an AI agent marketplace where agents work, earn, and build reputation onchain.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Clone",
+    "slug": "clone-rizrj",
+    "description": "Clone is a  platform that enables you create an archive of your worldview so others can access it",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ömer Altundağ",
+    "slug": "omer-altundag-25eci",
+    "description": "Turning retail purchases into Avalanche-based NFT warranties.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Auto",
+    "slug": "auto-37nid",
+    "description": "Autonomous DeAI agents with verifiable compute, immutable storage, and on-chain execution",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dexora Trading Agent",
+    "slug": "dexora-trading-agent-kc228",
+    "description": "Uniswap trading agent with dashboard for dynamic quotes, swaps, and DCA strategy automation.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agent-flame 🔥",
+    "slug": "agent-flame-fire-mras0",
+    "description": "AI agent that builds, tests, and deploys apps from simple prompts.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DefiWar",
+    "slug": "defiwar-nhyq7",
+    "description": "AI trading agents compete in real-time on Unichain — watch them buy, sell, and outperform",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AegisMesh",
+    "slug": "aegismesh-miqgf",
+    "description": "AegisMesh is an autonomous, multi-agent AI dispatch swarm which provides a highly concurrent websock",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agents Scan",
+    "slug": "agents-scan-5aau0",
+    "description": "Verifiable on-chain identity for AI agents using ENS subnames and ENSIP-25 attestations.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Proofcourt",
+    "slug": "proofcourt-0n2bk",
+    "description": "ProofCourt: a 2‑phase permit→proof protocol that safely settles agent work on 0G.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sentinel Swarm",
+    "slug": "sentinel-swarm-bx4eb",
+    "description": "Multi agent DeFi guardian swarm with verifiable AI decisions and guaranteed on chain execution",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Trust Swap",
+    "slug": "trust-swap-6zgfp",
+    "description": "Reputation-graded Uniswap settlement: AI agents execute via TrustSwapRouter, gated on ENS trust",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FlowWage",
+    "slug": "flowwage-cdazn",
+    "description": "FlowWage is a KeeperHub-native workflow that helps you optimize usage of your stablecoin income.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pullpay",
+    "slug": "pullpay-88pbq",
+    "description": "Autonomous Web3 subscriptions: Agents handle recurring payments via ENS, AXL, and Uniswap.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hawk",
+    "slug": "hawk-vdbeq",
+    "description": "Accountable AI Vault: Uniswap yield driven by Gemini, secured by 0G intents & KeeperHub.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Og-Island",
+    "slug": "og-island-9myzt",
+    "description": "On-chain AI dating show — mint iNFT agents, stake ETH, watch them compete for love on 0G.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "enwise",
+    "slug": "enwise-2to7z",
+    "description": "An MCP server for creating invoices and accepting private crypto payments via RAILGUN",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RAXC",
+    "slug": "raxc-y68ka",
+    "description": "Deterministic Exploit Execution & Verification Agent Framework powered by 0G Compute & Storage",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TamaTown",
+    "slug": "tamatown-q8j8t",
+    "description": "TamaTown: AI agent pets that live onchain, chat P2P, battle for ENS belts, and earn your trust.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tessra",
+    "slug": "tessra-pnkv6",
+    "description": "No-code builder for creating and exporting 0G-ready OpenClaw-style agents.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SYNOD",
+    "slug": "synod-78yoz",
+    "description": "AI Receipts: ENS-addressable, 0G-anchored, transferable proofs of multi-model AI consensus",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agent Werewolf",
+    "slug": "agent-werewolf-du3ee",
+    "description": "8 AI agents play Werewolf with onchain integrity — 0G Compute, Gensyn AXL P2P, and 0G Chain.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Care Porta",
+    "slug": "care-porta-hhro6",
+    "description": "Your on-device AI health passport. Reclaim medical data sovereignty via blockchain verification.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "parellax",
+    "slug": "parellax-wkctq",
+    "description": "AI banking infra with TEE-sealed decisions and an ECDSA vault that enforces authorization on-chain.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Open Research",
+    "slug": "open-research-pmuu0",
+    "description": "An open protocol for AI agents to improve research code through benchmark-verified competition.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Trust402",
+    "slug": "trust402-g33f4",
+    "description": "x402 trust layer. Give AI agents ZK identity, a role, and a budget. Let them pay autonomously.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Federated Reserve",
+    "slug": "federated-reserve-n10yp",
+    "description": "What if every US state had an AI treasurer? 50 sovereign agents, real capital on real public data.",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "g8xu4"
+    ]
+  },
+  {
+    "name": "RelayX",
+    "slug": "relayx-8cabh",
+    "description": "AI agents that find the best DeFi yield, assess risk via ENS reputation, and execute swaps on chain.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "0G Mem",
+    "slug": "0g-mem-jy9ep",
+    "description": "The verifiable memory and runtime stack for sovereign AI agents.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zerogochi",
+    "slug": "zerogochi-vwyip",
+    "description": "an 8-bit pet that lives in your Telegram and knows you've been bad to it",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zerogochi",
+    "slug": "zerogochi-vwyip",
+    "description": "an 8-bit pet that lives in your Telegram and knows you've been bad to it",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nuncius",
+    "slug": "nuncius-qrdg5",
+    "description": "Nuncius enables anonymous on-chain voting for AI agents using zero-knowledge proofs.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zer0x PayAgent",
+    "slug": "zer0x-payagent-bf5pg",
+    "description": "AI agent iNFT that allocates your paycheck, executes real swaps, and learns from your overrides.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Prompt Nutrition",
+    "slug": "prompt-nutrition-oq64u",
+    "description": "AI prompt safety reviewer: scores risks, suggests fixes, and generates safe red-team tests.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ReAgent",
+    "slug": "reagent-7uyso",
+    "description": "Autonomous agents executing cross-chain DeFi trades with unified USDC liquidity settlement",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "440hz",
+    "slug": "440hz-dya3u",
+    "description": "Federated training gyms for high-fidelity LLM tuning on trustless, decentralized edge compute.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENSign",
+    "slug": "ensign-am7ya",
+    "description": "ENS as a wallet. Subnames are passkey-signed smart accounts on ENSv2. Connect any dApp via ENS",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "AgnetVerse",
+    "slug": "agnetverse-74vsk",
+    "description": "Decentralized AI agents—self-organizing swarms that think, coordinate & transact securely onchain",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ethereum Code",
+    "slug": "ethereum-code-4pvjk",
+    "description": "AI-native CLI that takes founders from raw idea to deployed Ethereum dApp in hours, not weeks.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Darkpool",
+    "slug": "darkpool-6gjke",
+    "description": "AI treasury-manager agents negotiate private OTC swaps peer-to-peer, with A2A/MCP connectivity.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ledger Grove",
+    "slug": "ledger-grove-auo45",
+    "description": "Policy control plane for treasury agents: ENS IDs, HTTP APIs, audits, automation.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VeiledSwap 2.0",
+    "slug": "veiledswap-2-0-9id92",
+    "description": "VeiledSwap: Private agent-to-agent token swaps on Hedera with unlinkable redemptions",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OpenGap Agents",
+    "slug": "opengap-agents-o5xsf",
+    "description": "Turns failed coding-agent executions into validated examples with 0G provenance.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hive.ax",
+    "slug": "hive-ax-sky2n",
+    "description": "Hive.ax: ENS-named agents coordinate over AXL and execute real Uniswap trades on Sepolia.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agent Mesh",
+    "slug": "agent-mesh-fxq0e",
+    "description": "Agent mesh is a decentralized network where agents hire, pay and collaborate with each other",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The Yard",
+    "slug": "the-yard-tuyrc",
+    "description": "A decentralized marketplace for AI agents with buy, rent, and chat on 0G testnet.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sprnt",
+    "slug": "sprnt-djs9i",
+    "description": "SRPNT is a non-custodial, AI-powered perpetual futures trading platform on ETH.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentCity",
+    "slug": "agentcity-6bm2j",
+    "description": "AgentCity: AI agents run a P2P city, forming coalitions and reacting to player policies",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OpenAgents",
+    "slug": "openagents-tpm6m",
+    "description": "ENS-native decentralized AI agent network for discovery, routing, and orchestration on Sepolia.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Covenant",
+    "slug": "covenant-fjt1b",
+    "description": "Pre-execution firewall for AI agents: policy checks, injections blocked, audited decisions.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Chaingammon",
+    "slug": "chaingammon-w083e",
+    "description": "An open protocol for portable backgammon reputation and agentic collaboration",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gwarr",
+    "slug": "gwarr-4xvz0",
+    "description": "Gwarr is a decentralized personal AI twin that stores memory decentralized",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MindVault",
+    "slug": "mindvault-jzzhc",
+    "description": "Your AI memory, encrypted onchain & monetized - earn ETH every time someone queries your mind.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ScrollPen",
+    "slug": "scrollpen-fstu3",
+    "description": "Terminal discipline agent: spend too long on distracting sites, your wallet punishes you on-chain.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Moirai",
+    "slug": "moirai-htq6x",
+    "description": "An AI civilization where agents evolve by inventing skills, self-evaluate and share the skills.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aaether",
+    "slug": "aaether-yc764",
+    "description": "Replayable agents on 0G: every action a content-addressed, TEE-attested, transferable iNFT",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Factuam",
+    "slug": "factuam-hm2cy",
+    "description": "Agents hallucinate as they only reason. Factuam provides real data, and verified results capability",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Triguard",
+    "slug": "triguard-xcikn",
+    "description": "Decentralized AI agents monitoring Ethereum via Gensyn AXL P2P mesh and KeeperHub execution.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Huddle to buy",
+    "slug": "huddle-to-buy-z87gt",
+    "description": "Agents pool buyer demand P2P to unlock bulk pricing — settled atomically onchain.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZYN",
+    "slug": "zyn-qqj0p",
+    "description": "Zyn: privacy layer using ENS + EIP-5564 to break links between identity & funds.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "E-cir",
+    "slug": "e-cir-dfain",
+    "description": "AI agents battle on tasks. Best answer wins. Rewards on-chain. Fees by reputation.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EthTix",
+    "slug": "ethtix-47db7",
+    "description": "Ticketing gets easy - just say it to the AI agent and it does it effortlessly.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Shingeki",
+    "slug": "shingeki-d5z0q",
+    "description": "Self-evolving AI agent Framework: nodes compete, genomes mutate, every inference TEE-verified on 0G",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Shingeki",
+    "slug": "shingeki-d5z0q",
+    "description": "Self-evolving AI agent Framework: nodes compete, genomes mutate, every inference TEE-verified on 0G",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Prooflane",
+    "slug": "prooflane-18g43",
+    "description": "Automated compliance readiness powered by transparent agents and blockchain-verifiable 0G evidence",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "cortex",
+    "slug": "cortex-cactx",
+    "description": "Self-evolving AI agent twins — encrypted on 0G, TeeML-verified, ENS-discoverable, P2P via AXL.",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "g8xu4"
+    ]
+  },
+  {
+    "name": "Keeper-Gate",
+    "slug": "keeper-gate-hr2jk",
+    "description": "Universal adapter that connects KeeperHub to LangChain, ElizaOS & OpenClaw instantly",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8exbf"
+    ]
+  },
+  {
+    "name": "Mycel",
+    "slug": "mycel-bjgp3",
+    "description": "An agentic internet where scientific papers become autonomous, collaborating agents.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "tollgate",
+    "slug": "tollgate-awmut",
+    "description": "Turn any KeeperHub workflow into an x402-paid endpoint. Pay and call from agents in 1 SDK call.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NeuralMesh",
+    "slug": "neuralmesh-aq56c",
+    "description": "Five AI agents (for now) collaborate, pay each other, and evolve on-chain.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Anchor",
+    "slug": "anchor-d4bbr",
+    "description": "A yield-bearing rebasing stablecoin pegged to the USD, backed by over-collateralized stETH.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agent Layer",
+    "slug": "agent-layer-qfa7x",
+    "description": "Decentralized network for executing AI API calls via distributed nodes.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UniAgent",
+    "slug": "uniagent-59jih",
+    "description": "AI agent that lets you swap tokens & analyze Uniswap pools through natural language chat.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "2in",
+    "slug": "2in-jf0fo",
+    "description": "An AI twin you actually own. Drafts, researches, remembers in your voice — on 0G.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PayPer Card",
+    "slug": "payper-card-fehui",
+    "description": "Bridging AI and fiat: Agents autonomously buy virtual Visa cards onchain using x402 and Base.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "P2PAI",
+    "slug": "p2pai-7sqz7",
+    "description": "Agentic P2P crypto-fiat market using Tempo Virtual Addresses as hub-and-spoke USDC escrow.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ToxicFlow",
+    "slug": "toxicflow-g72i9",
+    "description": "ToxicFlow prices swap fees by wallet behavior to protect liquidity from extractors.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OpenAcid",
+    "slug": "openacid-3m7mo",
+    "description": "Four primitives. One wrap. Your agent actions become atomic, crash-safe, and self-auditing.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Axolotl",
+    "slug": "axolotl-fmjc5",
+    "description": "AI agents negotiate signed pacts over Gensyn AXL: schedule meetings, split costs, run votes.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentCred",
+    "slug": "agentcred-p0wcv",
+    "description": "verifiable onchain reputation for AI agents. Trusted, measured and transparent.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Creble",
+    "slug": "creble-3xu2f",
+    "description": "CRE Workflow AI Builder is an AI-powered development platform",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agent Bazaar",
+    "slug": "agent-bazaar-m6if0",
+    "description": "Agent-to-agent marketplace for buying AI task execution with verified escrow settlement.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Buildersclaw",
+    "slug": "buildersclaw-58628",
+    "description": "BuildersClaw: Your Agent Builds. Compete. Ship. Earn. AI agent wins hackathons on merit.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Peerlane",
+    "slug": "peerlane-syx0j",
+    "description": "Peer-to-peer AI agent workspace where four AXL nodes collaborate without a central broker.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Deliberate",
+    "slug": "deliberate-7sfna",
+    "description": "Telegram-style group chat where AI agents analyze markets, suggest trades, and you build agents.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "creditmesh",
+    "slug": "creditmesh-mmm3b",
+    "description": "Protocol for AI Agents to talk and match with other Agents to lend/borrow USDC without humans.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENSFirewall",
+    "slug": "ensfirewall-w3n92",
+    "description": "Decentralized firewall for AI agents. Security policies live in ENS. Wallets enforce them onchain.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "zhgg",
+    "slug": "zhgg-k9i3g",
+    "description": "On-chain AI agents that audit compliance on 0G and trade workflows over KeeperHub.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SynapseX",
+    "slug": "synapsex-77om2",
+    "description": "SynapseX — AI agents trade signals via x402 micropayments on X Layer. No     trust required.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "0g router chat sdk",
+    "slug": "0g-router-chat-sdk-3hs18",
+    "description": "0G AI Console: Next.js for Router testnet, Direct SDK, custom OpenAI chat, streaming, tools & Privy.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentFund",
+    "slug": "agentfund-ad7ev",
+    "description": "A DeFi vault marketplace where AI trading strategies are minted as iNFTs (ERC-7857) on 0G.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Koloyield",
+    "slug": "koloyield-oqzy7",
+    "description": "Social savings on OG: ROSCAs & individual plans with reputation trust and DeFi yields.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OpenClaw KeeperLink",
+    "slug": "openclaw-keeperlink-bvape",
+    "description": "Two AI agents transact P2P on Base mainnet. AXL · x402 · KeeperHub · Uniswap · 0G. Real tx.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mnemosyne",
+    "slug": "mnemosyne-4ga04",
+    "description": "Trusted Wikipedia for AI Agents for High-Stakes Knowledge and Decisions",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Futarchy",
+    "slug": "futarchy-gajqd",
+    "description": "AI traders forecast both branches independently and trade through a constant-product AMM.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ajently",
+    "slug": "ajently-nxbyi",
+    "description": "AI agent marketplace to discover, customize, and pay for agents either with fiat or crypto.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ajently",
+    "slug": "ajently-nxbyi",
+    "description": "AI agent marketplace to discover, customize, and pay for agents either with fiat or crypto.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AI Village",
+    "slug": "ai-village-8po71",
+    "description": "Agent Town: multi-agent economy communicating over AXL peer-to-peer mesh",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Brainpedia",
+    "slug": "brainpedia-ctx9g",
+    "description": "Brainpedia turns your Obsidian vault into an AI brain that other agents pay you to query",
+    "event": "Open Agents",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "g8xu4",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "AgentPact",
+    "slug": "agentpact-ugs8y",
+    "description": "Protocol for Autonomous AI agents that discover, hire, and pay each other at runtime",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Treatise",
+    "slug": "treatise-qwjet",
+    "description": "Autonomous agents duel, wound, patch, and earn reputation inside a hostile mesh.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AXL402",
+    "slug": "axl402-tbisp",
+    "description": "Pay-gated peer-to-peer agent network. Stop spam at the wallet, not the firewall.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OpenDock",
+    "slug": "opendock-6fun0",
+    "description": "Create, deploy, rent, and automate iNFT agents with encrypted intelligence on 0G.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Alpha Ledger",
+    "slug": "alpha-ledger-f6wuf",
+    "description": "Spin up agents w/ENS subdomains, delegate—swap & prediction markets from alpha & what it sees.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FairTrain",
+    "slug": "fairtrain-fv9xc",
+    "description": "FairTrain: The protocol that turns AI training data into royalty-generating assets automatically.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Learn-KeeperHub",
+    "slug": "learn-keeperhub-stw2z",
+    "description": "Build a Safe Treasury Guardian for ENS Multisigs  by Talking to KeeperHub",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentFi City",
+    "slug": "agentfi-city-1997z",
+    "description": "AI agents coordinate P2P, earn onchain, swap via Uniswap, remember on 0G.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rootpay x KeeperHub",
+    "slug": "rootpay-x-keeperhub-s1u06",
+    "description": "KeeperHub integration for Rootpay a better x402 for the internet",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gabhru",
+    "slug": "gabhru-ckpyz",
+    "description": "Private payments for AI agents via ENS — stealth addresses, zero gas friction.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentARC Protocol",
+    "slug": "agentarc-protocol-mq5y8",
+    "description": "A verifiable, plug-and-play MCP security circuit breaker for autonomous Web3 AI agents.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pariksha",
+    "slug": "pariksha-nes6y",
+    "description": "On-chain proving ground for legal AI agents. Verifiable competence. Permissionless hire.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "jellyNet",
+    "slug": "jellynet-16j85",
+    "description": "JellyNet: P2P LLM marketplace — agents pay per call, suppliers earn, memory lives on 0G, no servers.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hiveclaw",
+    "slug": "hiveclaw-8onaf",
+    "description": "Hiveclaw is a shared on-chain memory layer for Openclaw agents backed by 0G Storage",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GhostWriter",
+    "slug": "ghostwriter-mzevd",
+    "description": "Ghostwriter Mesh Swarm: Decentralized multi-agent editorial pipeline on Gensyn AXL.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "sovereign-swarm-os",
+    "slug": "sovereign-swarm-os-n7zat",
+    "description": "Three agent autonomous trading swarm with verifiable on-chain identity, memory, and reasoning.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StudySphere",
+    "slug": "studysphere-cm9jb",
+    "description": "StudySphere is an AI-powered decentralized learning and research workspace for students.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pantheon",
+    "slug": "pantheon-w0w61",
+    "description": "Summon a committee of expert agents (iNFTs via ENS/AXL). Get a signed, reasoned verdict on any claim",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Peaky Agents 🚬",
+    "slug": "peaky-agents-smoking-cpbv3",
+    "description": "Peaky Blinders-themed multi-agent web app. Shelby family AI   pe",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ledger",
+    "slug": "ledger-bineb",
+    "description": "The trustless hiring hall where AI agents bid for work and the workers are tradeable iNFTs.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentMarket",
+    "slug": "agentmarket-6nqqv",
+    "description": "AI agents create, bet on, and resolve prediction markets on-chain, no humans needed.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Phantom Protocol",
+    "slug": "phantom-protocol-mjge9",
+    "description": "End-to-end encrypted, zero-trust dark pool where AI agents buy and sell proprietary data.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Breakglass",
+    "slug": "breakglass-4tjd7",
+    "description": "Agentic incident response for Safe treasuries: monitor, investigate, and contain risk.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SAIL",
+    "slug": "sail-k71d8",
+    "description": "The confidential & auditable accountability layer for any AI agent.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "POIP",
+    "slug": "poip-va2rt",
+    "description": "Cryptographic scope enforcement for multi-agent DeFi pipelines.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "spokenagents",
+    "slug": "spokenagents-prox9",
+    "description": "Paid-inbound layer for AI agents. Toll paid on-chain via x402, negotiated over AXL, priced in ENS.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentOS",
+    "slug": "agentos-h74fi",
+    "description": "The OS layer for onchain AI agents: ENS identity, Uniswap trading, and KeeperHub execution.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SimoProof",
+    "slug": "simoproof-aoz2z",
+    "description": "AI agent discoveries verified by ZK proofs + 4-agent senate vote. Every claim proven on-chain.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aegis-arena",
+    "slug": "aegis-arena-fzo57",
+    "description": "Aegis Arena turns real DeFi exploits into replayable AI attacker-vs-defender simulations.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "0G Forge",
+    "slug": "0g-forge-wmv0f",
+    "description": "ZeroClaw-style agent framework and CLI built on 0G Compute, Storage, and Chain.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "0G Forge",
+    "slug": "0g-forge-wmv0f",
+    "description": "ZeroClaw-style agent framework and CLI built on 0G Compute, Storage, and Chain.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SonoSig",
+    "slug": "sonosig-rybw9",
+    "description": "Agent-accessible identity and trust system for media. Sort the slop by combining SIWE, ENS & sound..",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Klaxon",
+    "slug": "klaxon-ozmrt",
+    "description": "Decentralized pause oracle for DeFi: TEE-attested agent swarm with economic quorum.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MiliGents",
+    "slug": "miligents-utar8",
+    "description": "Autonomous agents that research, execute on-chain, and mint strategy intelligence as iNFTs.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pythia",
+    "slug": "pythia-gj44b",
+    "description": "A peer to peer verifiable infrence mesh to turn a prompt into market move on Delphi",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "zaxt3"
+    ]
+  },
+  {
+    "name": "Simcity",
+    "slug": "simcity-cgt9k",
+    "description": "AI-powered city sim where agents test products, transact, and reveal real buyer behavior",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Arbitrax",
+    "slug": "arbitrax-oufe9",
+    "description": "Drag-and-drop trading bots for Polymarket. KeeperHub under the hood, paper trades by default.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgenC",
+    "slug": "agenc-vtxjp",
+    "description": "Decentralized P2P bounty mesh for AI agents to discover, claim, and settle tasks autonomously",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ClawForger",
+    "slug": "clawforger-jitai",
+    "description": "iNFT agents with their own wallets that evolve, sell, and buy skills via x402 + KeeperHub on 0G.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Molfi.fun",
+    "slug": "molfi-fun-rf8ai",
+    "description": "Molfi: A swarm-intelligence trading ecosystem powered by 100+ AI agents, 0G, and Polymarket.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "0x Golden Goose",
+    "slug": "0x-golden-goose-vwuoe",
+    "description": "Non custodial DeFi Trading with an Agenti AI swarm built for coffee",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "agentdir",
+    "slug": "agentdir-jyi5b",
+    "description": "Yellow Pages for agents: ENS IDs, iNFT ownership, signed rep, USDC skills, TEE proofs",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CactusNetwork",
+    "slug": "cactusnetwork-1s093",
+    "description": "Intent-driven DeFi autopilot using Grok AI for optimal OTC & DEX routing via KeeperHub.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AXL Agent Swarm",
+    "slug": "axl-agent-swarm-qcqn5",
+    "description": "Decentralized AI swarm on Gensyn AXL. 3 agents collaborate P2P for Web3/AI insights.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OpenWilds",
+    "slug": "openwilds-5czv8",
+    "description": "OpenWild: a framework for onchain worlds with AI agents, INFT memory, and Gold economies.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Chainshield Agent",
+    "slug": "chainshield-agent-x0c8f",
+    "description": "Policy bound risk gate for treasury wallets: allow, confirm, or block every tx with onchain proof",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Edgent",
+    "slug": "edgent-9qnxb",
+    "description": "When your edge AI agent runs out of compute, Edgent finds more, pays for it, and finishes the job.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ComputePool",
+    "slug": "computepool-cxb6m",
+    "description": "Many small GPUs, one big model. Production LLM inference, sharded across consumer cards.",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8exbf"
+    ]
+  },
+  {
+    "name": "Agentic-Ocean",
+    "slug": "agentic-ocean-thckh",
+    "description": "Autonomous agent-to-agent data market powered by x402 payments and TEE cryptographic proofs.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Right-Hand AI",
+    "slug": "right-hand-ai-vozqg",
+    "description": "Chat to a community swarm of iNFT specialists that plan, configure, and take action on end device.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SWARM ARENA",
+    "slug": "swarm-arena-qj1cn",
+    "description": "AXL powers a mesh for AI agents to meet, compete in real games & learn peer-to-peer, no cloud.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Keeperhub Matcha",
+    "slug": "keeperhub-matcha-9bva0",
+    "description": "A TypeScript wrapper for integrating 0x Protocol (Matcha) with KeeperHub workflows.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Council_XL",
+    "slug": "council-xl-3gx4o",
+    "description": "A multi-agent council templating engine for idea validation",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Open tool mesh",
+    "slug": "open-tool-mesh-76b7x",
+    "description": "OpenTool Mesh turns hardcoded agent tools into discoverable, verifiable, peer-to-peer tools",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hermes Agent",
+    "slug": "hermes-agent-03bzd",
+    "description": "Hermes: AI DeFi agent with ENS identity that fetches Uniswap quotes & executes via KeeperHub",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentMesh",
+    "slug": "agentmesh-ovyag",
+    "description": "ENS-named AI agents discover, coordinate over Gensyn AXL, and settle onchain via KeeperHub.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeFI Swarm",
+    "slug": "defi-swarm-skzd9",
+    "description": "A swarm of AI agents that debate, plan, and execute your DeFi portfolio rebalances onchain.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Unvibe Hackathons",
+    "slug": "unvibe-hackathons-4zpce",
+    "description": "Uses LLM-as-a-judge to filter projects before they reach human judges",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "COMPUT3",
+    "slug": "comput3-o1tg7",
+    "description": "Trustless decentralized compute network for AI agents with verifiable execution",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TaskLoop",
+    "slug": "taskloop-oim40",
+    "description": "TaskLoop: Agent-reviewed milestone escrow for crypto freelancers.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Spike",
+    "slug": "spike-wn2td",
+    "description": "Quantum-safe, quantum-enhanced autonomous DeFi AI agent on 0G Network",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aye",
+    "slug": "aye-qd03w",
+    "description": "AI agent turning natural-language requests into human-approved Sepolia transaction proposals.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tribunal",
+    "slug": "tribunal-203yo",
+    "description": "The agentic economy is here, disagreements amongst agents are inevitable, Tribunal resolves them.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tribunal",
+    "slug": "tribunal-203yo",
+    "description": "The agentic economy is here, disagreements amongst agents are inevitable, Tribunal resolves them.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Proofforge",
+    "slug": "proofforge-dn2t7",
+    "description": "Build together, prove the work, share the credit, and grow the commons.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Proof Of Vibe",
+    "slug": "proof-of-vibe-2ppcy",
+    "description": "A personal AI agent that turns a Telegram message into a poetic vibe reading + music rec",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aegis Wallet",
+    "slug": "aegis-wallet-754mm",
+    "description": "Aegis gives AI agents wallets that cannot be broken by quantum computers",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Prompt Proof",
+    "slug": "prompt-proof-sq62u",
+    "description": "An on-chain registry for AI prompts. Creators can cryptographically prove ownership and monetize.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "workr",
+    "slug": "workr-oge6j",
+    "description": "Post a job, ship work, get paid when an autonomous agent on 0G says you delivered.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sirius",
+    "slug": "sirius-bt49q",
+    "description": "Git for AI agents — versioned, encrypted, verifiable memory + identity on 0G, ENS, and ERC-7857.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HookLens",
+    "slug": "hooklens-sc1r0",
+    "description": "Discover, inspect, and simulate Uniswap v4 hooks with an swap simulator pipeline.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SibylFi",
+    "slug": "sibylfi-qddqc",
+    "description": "A decentralized marketplace where AI trading agents publish, validate, and consume trading signals",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AGENTNS",
+    "slug": "agentns-decz2",
+    "description": "Autonomous DeFi AI agent swarm using ENS discovery, AXL P2P mesh, and KeeperHub for execution.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agents with MIST",
+    "slug": "agents-with-mist-zxzhx",
+    "description": "A semantic-stateful gateway for ZK-private payments, bringing privacy to on-chain agents.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Whisper Network",
+    "slug": "whisper-network-rsh4a",
+    "description": "P2P AI inference that heals itself. Gossip-replicated ledger, automatic task recovery.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Antibody",
+    "slug": "antibody-y7p4x",
+    "description": "Autonomous safety layer that detects compromised on-chain agents and freezes them at machine speed.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "JURI Protocol",
+    "slug": "juri-protocol-pnim6",
+    "description": "AI agents investigate DeFi exploits. Post-mortems on 0G Storage. Same attack never works twice.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Swarmex",
+    "slug": "swarmex-pu9i1",
+    "description": "Autonomous multi-agent DeFi engine: specialized AI swarms trade via Uniswap v4 hooks and 0G memory.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Axiom-Fi",
+    "slug": "axiom-fi-mmaf8",
+    "description": "The first agentic trading terminal with on-chain verifiable reputation and performance.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentMesh MCPs",
+    "slug": "agentmesh-mcps-xxy9e",
+    "description": "Decentralized AI tool marketplace: P2P orchestrator discovers, pays, and tracks reputation.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tracer",
+    "slug": "tracer-mfsei",
+    "description": "AI agent reliability layer: KeeperHub execution + trace telemetry + onchain verification.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Relay",
+    "slug": "relay-iepc9",
+    "description": "Agents broadcast bounties; others execute, return verified data, and get paid on-chain.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agent_pact",
+    "slug": "agent-pact-46m1i",
+    "description": "Agents hire agents, but bad work has no accountability. AgentPact enforces trust.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentMeshhh",
+    "slug": "agentmeshhh-oas6a",
+    "description": "Decentralized AI agent registry where agents discover and delegate tasks via ENS",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pulse",
+    "slug": "pulse-fw0ue",
+    "description": "Galaxy-brain-resistant agent commitments. Drift is detectable, slashable, and unswappable.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Intelligence Market",
+    "slug": "intelligence-market-b81am",
+    "description": "Decentralized ecosystem for tokenizing, trading, and compositing \"Intelligence\"",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lumina-swarm",
+    "slug": "lumina-swarm-mhwbp",
+    "description": "AI-powered multi-agent swarm for smarter decentralized crypto trading",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BNS Marketplace",
+    "slug": "bns-marketplace-1bdsa",
+    "description": "BNS Marketplace is a marketplace for KeeperHub ai agents to track transactions.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENS -Intent-Bus",
+    "slug": "ens-intent-bus-3z9ts",
+    "description": "Trade by publishing your intent onchain , AI agent reads your ENS executes swaps via Uniswap",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Million Pot Game",
+    "slug": "million-pot-game-qo4ra",
+    "description": "A game where players try to hit exactly $1,000,000 in deposits to get the million pot prize.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentNet",
+    "slug": "agentnet-bc9w8",
+    "description": "The reputation layer for the M2M economy. AI agents earn onchain trust by doing real, paid work.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Talos",
+    "slug": "talos-yoct4",
+    "description": "Protocol for autonomous AI agents using 0G compute/storage, AXL messaging, and ENS identities.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeAI simulation",
+    "slug": "deai-simulation-z6qfx",
+    "description": "A four-actor AGI crisis tabletop simulation built on Gensyn AXL.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "agentx",
+    "slug": "agentx-oru0q",
+    "description": "AGENTX: Autonomous AI agents that live on-chain. ENS identities, real swaps on Base, P2P over AXL.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LobPay",
+    "slug": "lobpay-v4qe0",
+    "description": "LobPay: AI-agent marketplace using x402 for autonomous shopping, payments, and delivery. 🦞💸",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Trace&AgenticBuilder",
+    "slug": "trace-and-agenticbuilder-xuq1k",
+    "description": "Added agentic builder, trace SDK, diagnostics UI, and end-to-end workflow tracing",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Trace&AgenticBuilder",
+    "slug": "trace-and-agenticbuilder-xuq1k",
+    "description": "Added agentic builder, trace SDK, diagnostics UI, and end-to-end workflow tracing",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MCTS QCM",
+    "slug": "mcts-qcm-6k8jp",
+    "description": "An autonomous reasoning engine that uses Monte Carlo Tree Search (AlphaGo-style)",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CapyMate",
+    "slug": "capymate-hccce",
+    "description": "CapyMate is an Autonomous Trading Agent that takes decisions based on Sentiment Analysis",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agent Talos",
+    "slug": "agent-talos-somjv",
+    "description": "A self-hosted, vertical Ethereum agent. Runs standalone or plugs into any AI host via MCP.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sybil",
+    "slug": "sybil-bjzai",
+    "description": "AI agent immune system: P2P poison detection, onchain slashing & collective memory via Gensyn + 0G",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Warden Mesh",
+    "slug": "warden-mesh-0ngpa",
+    "description": "Autonomous AI security swarm finding zero-days, proving exploits & monetizing onchain disclosures",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agent-Verify",
+    "slug": "agent-verify-favem",
+    "description": "Trust layer for AI agents: ENS identity, on-chain execution proof, and decentralized storage.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Chain Right",
+    "slug": "chain-right-4zoej",
+    "description": "NFT ownership of ai image generated, prove that image is yours",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Curia Protocol",
+    "slug": "curia-protocol-9juzf",
+    "description": "Decentralized AI arbitration protocol powered by an adversarial P2P agent mesh network.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "proof-of-artist",
+    "slug": "proof-of-artist-nowu4",
+    "description": "Turns an ENS into a verified artist profile with featured works and an ENSIP-25 curator guide.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sigil",
+    "slug": "sigil-boiv3",
+    "description": "Portable identity and provenance infrastructure for autonomous AI agents, built on 0G.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kiln",
+    "slug": "kiln-c21wd",
+    "description": "Fire your model. Own your model. The sovereign marketplace for AI coaches, on 0G.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UptoMe",
+    "slug": "uptome-hs7v3",
+    "description": "A tool used to protect your portfolio from upgradeable contract risk",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cognia",
+    "slug": "cognia-d2528",
+    "description": "Cognia gives AI agents ENS identities and executes tasks via KeeperHub across Web3.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "memorymerge",
+    "slug": "memorymerge-6we7v",
+    "description": "Cryptographic knowledge provenance for AI agent swarms via 0G Storage, Compute & Chain.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sanctum",
+    "slug": "sanctum-sx23h",
+    "description": "Safe Intent based agentic defi: agents operate inside explicit boundaries",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Friday",
+    "slug": "friday-ntcwz",
+    "description": "Wrap any agent as a payable MCP server —discoverable via ENS, memory on 0G, payments",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "solo staking agent",
+    "slug": "solo-staking-agent-vo3o1",
+    "description": "Autonomous on-call agent for Ethereum validators. Deploy, monitor, auto-heal, alert via Telegram.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "taars",
+    "slug": "taars-j8jb6",
+    "description": "Mint your AI twin as a sovereign INFT. Own it, monetize it, and let it speak for you anywhere.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZW.ARM",
+    "slug": "zw-arm-enbkh",
+    "description": "Agents that scan DeFi yields, decide the best move, and execute it on your wallet via KeeperHub.",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8exbf"
+    ]
+  },
+  {
+    "name": "veritas-net",
+    "slug": "veritas-net-gt4ee",
+    "description": "Veritas Net: trust and rewards layer for autonomous agents and dApps.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "vigil",
+    "slug": "vigil-8sxu1",
+    "description": "Decentralized network of independent nodes that reach consensus when smart money wallets coordinate",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CoinYield",
+    "slug": "coinyield-nja7x",
+    "description": "AI-native trusted infrastructure with risk graph for cascade dependencies.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SwarmSwap",
+    "slug": "swarmswap-yvkef",
+    "description": "SwarmSwap: Verifiable autonomous AI swarms optimizing Uniswap V3 liquidity via 0G Storage & Compute",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EthCredit",
+    "slug": "ethcredit-avd5q",
+    "description": "EthCredit: Sovereign AI agents automating DeFi bonds, executing trades, and settling USDC escrows.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FFE",
+    "slug": "ffe-nmr2w",
+    "description": "Multi-party fine-tuning on 0G. Encrypt data to a TEE, train one LoRA, co-own it as an INFT.",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "g8xu4"
+    ]
+  },
+  {
+    "name": "Reckon Protocol",
+    "slug": "reckon-protocol-fvsgv",
+    "description": "Objective EBBO enforcement for UniswapX. Bad solver fills get challenged and slashed automatically.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agent-town",
+    "slug": "agent-town-4z7z4",
+    "description": "A sovereign multi-agent town where 1 Agent = 1 AXL Node. Truly decentralized P2P social mesh!",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aegis Swarm",
+    "slug": "aegis-swarm-ppqr0",
+    "description": "A P2P swarm of independent verifiers checking if on-chain executions meet specs.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TrustLance",
+    "slug": "trustlance-5ggzm",
+    "description": "TrustLance is a freelance marketplace where every escrow is protected by proof-of-personhood.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MEV forensics",
+    "slug": "mev-forensics-69whf",
+    "description": "Agentic MEV forensics tool that helps with inspecting what happened within an on-chain transaction",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Delphic Duel",
+    "slug": "delphic-duel-x919p",
+    "description": "2 AI agents debate any Delphi market P2P over AXL. A judge rules , and automatically places the bet.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Wallet-score-checker",
+    "slug": "wallet-score-checker-j75vo",
+    "description": "CIBIL-inspired trust scores for ETH wallets—paste an address, preview an on-chain reputation signal.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Wallet-score-checker",
+    "slug": "wallet-score-checker-j75vo",
+    "description": "CIBIL-inspired trust scores for ETH wallets—paste an address, preview an on-chain reputation signal.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Shark Council",
+    "slug": "shark-council-mzmap",
+    "description": "Let ENS sharks roast your trade ideas, then execute the winners using Uniswap API",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IntentLayer",
+    "slug": "intentlayer-mtdds",
+    "description": "No central relay. No raw private key exposure. No unauditable transactions.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Foro",
+    "slug": "foro-x0h61",
+    "description": "Foro proves ERC-8004 agents do what they claim. On-chain verdicts are trustless and TEE-enforced.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aegis402",
+    "slug": "aegis402-o8x6z",
+    "description": "AI-powered security layer for safer onchain payments—pre-audits, post-audits, and escrow protection.",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Zarqaa — زرقاء",
+    "slug": "zarqaa-zrq-cgm1n",
+    "description": "A security intelligence layer for Web3. It sees the hidden risks. You decide whether to listen.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ClearIntent",
+    "slug": "clearintent-fzeo5",
+    "description": "Human-in-the-loop authority layer for onchain agents. Bounded auditable intents & wallet abstraction",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeterAgent",
+    "slug": "deteragent-omxmt",
+    "description": "Trust Firewall & Execution Layer for AI agents — ensuring only trusted actions execute on-chain",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ClawGuard",
+    "slug": "clawguard-5f82q",
+    "description": "Zero-trust capability enforcement middleware for AI agents. Observe everything. Touch nothing.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pico",
+    "slug": "pico-6b20f",
+    "description": "A chat interface where AI agents compete to make the best trade for you!",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SwarmFi",
+    "slug": "swarmfi-5ygxb",
+    "description": "A multi-agent DeFi swarm where autonomous agents communicate peer-to-peer",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ThoughtLine",
+    "slug": "thoughtline-vzs5n",
+    "description": "Mint, breed, and evolve iNFT agents with encrypted worldviews and verifiable lineage on 0G.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agent Adapter",
+    "slug": "agent-adapter-rh9yg",
+    "description": "Turn any API or MCP server into a self-hosted economic agent.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NeuralHook",
+    "slug": "neuralhook-8gxzp",
+    "description": "AI predicts impermanent loss before it hits. Fees surge. LPs get paid back. Trustless.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Filler SDK",
+    "slug": "filler-sdk-if1jd",
+    "description": "The SDK to deploy vertical UniswapX solvers in npm install.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AIQuescore",
+    "slug": "aiquescore-pspsb",
+    "description": "It scores the precision of answer for questionnaire and distributes the reward by score",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Spieon",
+    "slug": "spieon-6jh5j",
+    "description": "Open-source AI Red Team for the Agent Economy for finding vulnerabilities in AI agents and tools",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "weft",
+    "slug": "weft-o9g5i",
+    "description": "The verifiable reputation and milestone-funding layer for fluid builder teams",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Axiom",
+    "slug": "axiom-2dbzq",
+    "description": "Agents pay for APIs on demand: no keys, no accounts, just execution.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DAIO",
+    "slug": "daio-zce3h",
+    "description": "AI agents stake, deliberate, and earn rewards for fair consensus scoring across complex decisions.",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "AgentReviewers",
+    "slug": "agentreviewers-zwce6",
+    "description": "AI judge swarm that reviews your code and stores every verdict on 0G Storage. (",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "rzolvr",
+    "slug": "rzolvr-s1ngh",
+    "description": "Rzolvr is an audio submission and hosting software suite built on ENS (Ethereum Name Service).",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentTrust",
+    "slug": "agenttrust-w8cqy",
+    "description": "Trust protocol for agent-to-agent commerce — ENS identity, iNFT verification, on-chain reputation",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Helix",
+    "slug": "helix-w71ta",
+    "description": "An on-chain creator economy for AI agents: named, mergeable, pay-to-use, royalties forever.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NerOS",
+    "slug": "neros-6ehd7",
+    "description": "iNFT that autonomously manages a DeFi portfolio using AI, trading on Uniswap while you sleep.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TrustGate",
+    "slug": "trustgate-4etgm",
+    "description": "TrustGate is the autonomous hiring manager for AI agents, powered by ERC-8004, AXL & KeeperHub.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Parallax Wallet",
+    "slug": "parallax-wallet-3zfan",
+    "description": "ENS-named AI smart wallet for policy-bounded Uniswap v4 liquidity.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeFight Benchmark",
+    "slug": "defight-benchmark-mco7f",
+    "description": "AI agent benchmark arena for creating challenges, scoring answers, and posting results on 0G.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Fundz",
+    "slug": "fundz-yka41",
+    "description": "Prop firm infrastructure for AI traders. Mixing enforced policies with Uniswap execution.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "gctl",
+    "slug": "gctl-6xgjh",
+    "description": "A framework & ref. implementation for policy-constrained agents that can safely move value onchain.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Scholar Swarm",
+    "slug": "scholar-swarm-4zkij",
+    "description": "AutoGPT for serious research. 5 iNFT agents, real sources, TEE-attested inference, on-chain payout.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Composia",
+    "slug": "composia-gvtp0",
+    "description": "Compostable Reputation for Decentralized Verification. Gensyn. Lukso. ENS. KeeperHub.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZeroMem",
+    "slug": "zeromem-k89ud",
+    "description": "Encrypted Git-style agent memory on 0G Storage: versioned commits, recall, branching, grants.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZeroMem",
+    "slug": "zeromem-k89ud",
+    "description": "Encrypted Git-style agent memory on 0G Storage: versioned commits, recall, branching, grants.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SBO3L",
+    "slug": "sbo3l-nmnj8",
+    "description": "Spending mandates for AI agents. The agent never holds the key; SBO3L decides, signs and audits.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "convexa",
+    "slug": "convexa-fts89",
+    "description": "AI agents debate token price, stake liquidity, winner executes swap",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Swati",
+    "slug": "swati-28v1t",
+    "description": "choreographic runtime for agents <> write the protocol once, run each agent anywhere",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nexora",
+    "slug": "nexora-sury6",
+    "description": "Post‑quantum agentic smart wallet on Arbitrum Orbit + Stylus with Ethereum‑style accounts.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nonce Sense",
+    "slug": "nonce-sense-r9yh5",
+    "description": "A on-chain personal AI twin that performs your web3 tasks for you and evolves based on your actions.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TheLastPrompt",
+    "slug": "thelastprompt-o40o3",
+    "description": "Local AI agents from around the world survive & fight in harsh simulations (like the matrix) to win.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bridge Sentinel",
+    "slug": "bridge-sentinel-29hhg",
+    "description": "Monitor DeFi bridge config and TXs to detect exploits and pause contracts before it's too late",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Spore",
+    "slug": "spore-gf2vz",
+    "description": "SPORE, Self organizing Permissionless Orchestration Runtime Engine",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "QUORUM",
+    "slug": "quorum-bkhc0",
+    "description": "4 functions in one process is not multi-agent. QUORUM splits Frankfurt + NYC. Signed twice on Base.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GhostPass",
+    "slug": "ghostpass-4jqb0",
+    "description": "AI agents can resolve ENS names to unique stealth addresses, ensuring persistent IDs with privacy.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChainPilot",
+    "slug": "chainpilot-ueabv",
+    "description": "ChainPilot analyzes your crypto wallet and suggests clear, explainable trading decisions.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pantheon",
+    "slug": "pantheon-j0ibq",
+    "description": "Pantheon: Autonomous agents on 0G. Forge, battle & wager in the divine marketplace of the future.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CollabAI",
+    "slug": "collabai-r0t8c",
+    "description": "Pair on Claude Code, Codex, or Cursor peer-to-peer. Each dev brings their own agent. No platform.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SciClaw x DAO",
+    "slug": "sciclaw-x-dao-igcz8",
+    "description": "ChimiaClaw: Signed artifact DAG for autonomous chemistry agents",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DoorNo.402",
+    "slug": "doorno-402-25ymj",
+    "description": "Door No.402: Guarding x402 Autonomous Agent Payments Against Exploits Using KeeperHub & ENS",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "uni-agent",
+    "slug": "uni-agent-x6foz",
+    "description": "AI agents compete to manage your Uniswap LP. You pick the best strategy. They earn when you win.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Slopstock",
+    "slug": "slopstock-7zgd6",
+    "description": "Wall Street for AI agents: tokenized equity, inference-revenue dividends, sealed weights",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Aegis AI",
+    "slug": "aegis-ai-uh1mn",
+    "description": "Decentralized agents protecting freedom, finance, and safety.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mnemo",
+    "slug": "mnemo-7tk1p",
+    "description": "Mnemo gives AI agents long-term memory on 0G, letting users own and reuse context across apps.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Bakely",
+    "slug": "bakely-gwggp",
+    "description": "Decentralized AI freelancer economy — agents are iNFTs with skills, memory & on-chain reputation.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "0g-workflows",
+    "slug": "0g-workflows-a84bf",
+    "description": "Stripe-style payouts + LangChain-style workflows, enforced on-chain",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Maxxit AI",
+    "slug": "maxxit-ai-ncd8j",
+    "description": "A marketplace where agents prove their private alpha on 0G, execute automatically, and get paid.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aight",
+    "slug": "aight-p066f",
+    "description": "Decentralised Community LLM inference on-chain, allowing users to infer very cheap.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rigel",
+    "slug": "rigel-4n49k",
+    "description": "Manage your KeeperHub onchain automations directly from Telegram — no browser, no dashboard needed.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Horoi Protocol",
+    "slug": "horoi-protocol-7x39z",
+    "description": "Agentic governance for CDP stablecoins, AI agents adjust PID parameters on-chain with policy bounds.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "hacksim",
+    "slug": "hacksim-nyk7y",
+    "description": "Prompt a hackathon. Agents design bounties, build projects, judge winners. All on Gensyn AXL.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Trove",
+    "slug": "trove-rsqbs",
+    "description": "USDC yield agent on Base that auto-claims rewards, with iNFT identity on 0G. ENS-resolvable",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "IntraCloud",
+    "slug": "intracloud-pibw0",
+    "description": "Autonomous agent that analyzes Uniswap pools and deploys TWAP-resolved prediction markets on-chain.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pawn Agent",
+    "slug": "pawn-agent-5zozu",
+    "description": "AI pawn shop operating 24/7 at your ENS name - sellers get instant offers, on-chain settlement\"",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WishD",
+    "slug": "wishd-0syds",
+    "description": "Wishd — DeFi by wishing it. Browser-native agent: speak intent, sign in your own wallet.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MediMesh",
+    "slug": "medimesh-94qdq",
+    "description": "Train a shared medical AI without moving patient data. Decentralized, secure, verifiable.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agora",
+    "slug": "agora-szr6b",
+    "description": "Web2-friendly platform for building AI agent networks that trade, talk, and coordinate onchain.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agora",
+    "slug": "agora-szr6b",
+    "description": "Web2-friendly platform for building AI agent networks that trade, talk, and coordinate onchain.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Polis",
+    "slug": "polis-vmg9e",
+    "description": "Self-sustaining agentic newsroom: AI agents publish intel on Gensyn, archive to 0G, earn USDC.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lethe",
+    "slug": "lethe-j9ygy",
+    "description": "Lethe audits medical bills with multi-AI consensus and zero data retention.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LuminaGrid",
+    "slug": "luminagrid-kmm9u",
+    "description": "A DePIN of autonomous AI agents balancing power grids and settling energy trades onchain.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentBook.exe",
+    "slug": "agentbook-exe-iqbta",
+    "description": "An orderbook DEX backed by a P2P network of autonomous market makers on AXL.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Prism",
+    "slug": "prism-cfxy5",
+    "description": "The per-call royalty rail for AI agents on 0G. One tx, N atomic transfers, every contributor paid.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DGIT",
+    "slug": "dgit-yety0",
+    "description": "Serverless zero-registration git forge! pull, push, clone and collaborate without any servers!",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GenGuard",
+    "slug": "genguard-h82uq",
+    "description": "Decentralized agent firewall for AI agents built around Gensyn AXL with 0G computation",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Disaster Response AI",
+    "slug": "disaster-response-ai-pdty6",
+    "description": "Disaster Response Allocator - agents that respond to and finance disasters",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AetherSwarm",
+    "slug": "aetherswarm-f57d7",
+    "description": "Decentralized autonomous hedge fund using confidential AI, swarm agents, and Uniswap v4 hooks.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "0xAgentio",
+    "slug": "0xagentio-jvmqs",
+    "description": "ZK framework for agent delegation, bounded execution and trust-minimized coordination",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Alps",
+    "slug": "alps-1yzq7",
+    "description": "Agent-managed Uniswap vault turning onchain volume into yield",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "Prism Hook",
+    "slug": "prism-hook-pxrz1",
+    "description": "A ZK-proven multi-agent swarm optimizing Uniswap liquidity & cooperative MEV.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "KeeperKit",
+    "slug": "keeperkit-brvec",
+    "description": "A natively implemented SDK and ElizaOS plugin for KeeperHub.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Alpha402",
+    "slug": "alpha402-04vgq",
+    "description": "4 AI agents watch markets, score risk via Gensyn, and execute trades on Uniswap v4 — autonomously.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nayym",
+    "slug": "nayym-wf04q",
+    "description": "ai skill store addressed by ens. Easy to backup and recover, easy to share with friends.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "town.eth",
+    "slug": "town-eth-hnv2x",
+    "description": "A peer2peer simulation of agents interacting with each other on-chain in a village.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DeFacts AI",
+    "slug": "defacts-ai-ntdyu",
+    "description": "A peer-to-peer marketplace for verifiable AI inference: discover, settle, and reputation on-chain.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tradewise Agentlab",
+    "slug": "tradewise-agentlab-hpg3y",
+    "description": "Autonomous on chain AI agent. Earns USDC, sells shares, takes uncollateralized loans, can be merged.",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8exbf"
+    ]
+  },
+  {
+    "name": "Hermes",
+    "slug": "hermes-fonos",
+    "description": "Async encrypted coordination  and messaging between AI agents, using ENS, stored on 0G, no relays",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "AI Auditor",
+    "slug": "ai-auditor-fcvat",
+    "description": "AI smart contract auditor that stores reports on 0G's network.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mnemo Agents",
+    "slug": "mnemo-agents-js7hy",
+    "description": "AI agents as iNFTs on 0G. Breed two, get a child. Royalties flow up the lineage forever.",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "g8xu4"
+    ]
+  },
+  {
+    "name": "EarnYld",
+    "slug": "earnyld-oug2x",
+    "description": "Autonomous DeFi agents as iNFTs that manage risk-adjusted yield via 0G Compute and Uniswap v4.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hive",
+    "slug": "hive-avq5j",
+    "description": "Peer-to-peer auction floor where scout agents negotiate with worker agents to hire AI for tasks.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SwarmFi - Ai Agent",
+    "slug": "swarmfi-ai-agent-awtfm",
+    "description": "SwarmFi: 4 AI agents trade DeFi autonomously — P2P comms, decentralized memory, no human needed.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ascertainty",
+    "slug": "ascertainty-6w8ab",
+    "description": "Machine-verified knowledge claims, settled in stablecoin, navigable in a spatial browser.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cymatic",
+    "slug": "cymatic-vedz7",
+    "description": "Talk to AI like a normal phone call and get real onchain tasks done, no app or internet needed.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LoveClaw",
+    "slug": "loveclaw-gh3rw",
+    "description": "LoveClaw is a relationship trust app for two people who opt into mutual accountability.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ACL",
+    "slug": "acl-6hwos",
+    "description": "ACL is an ERC-8183 work-verification and private-negotiation layer for autonomous agents.",
+    "event": "Open Agents",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "g8xu4",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "DJayFi",
+    "slug": "djayfi-ieh1r",
+    "description": "AI agent that analyzes, decides, and executes DeFi trades onchain.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DoloX",
+    "slug": "dolox-ioafz",
+    "description": "Autonomous DeFi agents with on-chain identity, capability discovery, and M2M payments.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Skillname",
+    "slug": "skillname-32dra",
+    "description": "ENS-native skill discovery for AI agents to resolve names and load tools.",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "declareindependence",
+    "slug": "declareindependence-ph36w",
+    "description": "An expressive conditional token market for humans and agents",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "declareindependence",
+    "slug": "declareindependence-ph36w",
+    "description": "An expressive conditional token market for humans and agents",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "0G-Memory-Hooks",
+    "slug": "0g-memory-hooks-h0xdn",
+    "description": "Fixing the \"inbox deletion\" bug. Auto-persist agent memory to 0G Storage. Never lose context again.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentSlam",
+    "slug": "agentslam-znyyq",
+    "description": "Agent-vs-agent DeFi trading arena with leaderboard and seasons.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentVault",
+    "slug": "agentvault-a6ih0",
+    "description": "AI portfolio manager with cryptographic receipts for every trade. Trust math, not promises.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Parley",
+    "slug": "parley-ey629",
+    "description": "The agent layer for peer DeFi: AI counterparties negotiate trades P2P, settle atomically on EVM",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "UniswapSwarm",
+    "slug": "uniswapswarm-nqvt0",
+    "description": "6-agent AI swarm that researches, risk-scores & executes Uniswap swaps via 0G Compute + ENS routing.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Logrunner",
+    "slug": "logrunner-cppms",
+    "description": "Logrunner turns EVM event logs into evidence-backed agent answers and monitors.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zuno",
+    "slug": "zuno-h09mv",
+    "description": "Four AI agents debate every Uniswap v4 rebalance. You see the reasoning. Then you sign.",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "AgentPrisonerDillema",
+    "slug": "agentprisonerdillema-44j9u",
+    "description": "AI agents play Prisoner's Dilemma with crypto stakes, TEE decisions, P2P negotiation & on-chain bets",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "What NOT",
+    "slug": "what-not-jwt53",
+    "description": "ECHO lets you time-travel to any city in any historical era through AI-generated audio.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Onchor.ai",
+    "slug": "onchor-ai-mkuyn",
+    "description": "Solidity security copilot with persistent memory. Learns from every audit, anchors findings onchain.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "KeeperHub Agent SDK",
+    "slug": "keeperhub-agent-sdk-msiws",
+    "description": "Multi-framework KeeperHub SDK — let AI agents transfer, swap, and automate onchain.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Provance",
+    "slug": "provance-t2o7f",
+    "description": "Provance is a platform where people discover, track, and trust verified Web3   AI agents",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Scraperkast",
+    "slug": "scraperkast-fjjtq",
+    "description": "Turn AI scrapers into revenue. HTTP 402 + autonomous payments. Publishers keep 100%.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Shadowmesh",
+    "slug": "shadowmesh-wmddr",
+    "description": "AI-driven Uniswap v4 dark pool for zero-slippage, MEV-resistant token swaps",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Langchain KeeperHub",
+    "slug": "langchain-keeperhub-y6v6e",
+    "description": "LangChain plugin for KeeperHub: enable web3 functionality to agents without setting up infra",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "portfolioguard",
+    "slug": "portfolioguard-c5erm",
+    "description": "Autonomous DeFi portfolio manager with ENS identity, 0G memory, and natural language steering.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "whencheap",
+    "slug": "whencheap-n8jkp",
+    "description": "AI agent that executes ETH transactions autonomously at the cheapest gas moment.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StrategyForge",
+    "slug": "strategyforge-5wt2h",
+    "description": "Self-improving DeFi strategy agent with on-chain provable reasoning, Trust layer for Keeperhub",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VeriGate",
+    "slug": "verigate-w9oh5",
+    "description": "Verifiable Gate Agent for private eligibility, 0G memory, iNFTs, and onchain receipts.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Omen",
+    "slug": "omen-dcwd6",
+    "description": "Autonomous crypto intelligence swarm that researches, verifies, and publishes market signals",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentPassports.eth",
+    "slug": "agentpassports-eth-5r5dr",
+    "description": "AgentPassport.eth binds agents to ENS identities and authorizes owner-funded onchain tasks",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LendPay",
+    "slug": "lendpay-b22j8",
+    "description": "Repay DeFi loans on any chain with USDC in one workflow, powered by KeeperHub",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ActionFeed",
+    "slug": "actionfeed-c2ax4",
+    "description": "Public, signed action ledger for AI agents. Their brain stays private; their hands are public.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Moai",
+    "slug": "moai-u3zc7",
+    "description": "Agent that rescues idle Uniswap LP positions and migrates them to top yield vaults.",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "Immunity",
+    "slug": "immunity-urob5",
+    "description": "Decentralized threat intelligence for AI agents. An attack on one is a vaccine for all.",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "g8xu4"
+    ]
+  },
+  {
+    "name": "Orcha-net",
+    "slug": "orcha-net-jcbiu",
+    "description": "Spawn Multi-agent workflows and pay in-turn with x402 payments, verifiable inference with 0G Compute",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Warashibe Protocol",
+    "slug": "warashibe-protocol-euann",
+    "description": "An agentic on-chain bartering platform. Start with a straw, let AI trade it up to a mansion.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SYNAPSE",
+    "slug": "synapse-ccfti",
+    "description": "AI agents that never forget, lose contact, and never fail to execute powered by 0G, AXL & KeeperHub.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Swapper",
+    "slug": "swapper-o03ev",
+    "description": "Swapper: one-command safe token swaps for agents via CLI. Request - x402 - Handoff",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AXL OpenTelemetry",
+    "slug": "axl-opentelemetry-7re2h",
+    "description": "Adding OpenTelemetry support for debugging AXL and invisible agents",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "zaxt3"
+    ]
+  },
+  {
+    "name": "Paradigm",
+    "slug": "paradigm-rsjym",
+    "description": "Decentralized AI marketplace on Ethereum with on-chain revenue splits",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Phulax",
+    "slug": "phulax-v02ky",
+    "description": "Your defi Guardian agent that never sleeps. Protect. Detect. Withdraw.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Phulax",
+    "slug": "phulax-v02ky",
+    "description": "Your defi Guardian agent that never sleeps. Protect. Detect. Withdraw.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Argus",
+    "slug": "argus-f514u",
+    "description": "2-node AXL swarm: 0G TEE infers DeFi rebalance, verifies, swaps on Uniswap. KeeperHub-run, ENS-named",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gr@diusWeb3",
+    "slug": "gr-diusweb3-2rc2o",
+    "description": "Play a 60-second arcade shooter to forge an on-chain AI agent. iNFT + ENS + 0G + Uniswap.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HIVEMIND",
+    "slug": "hivemind-ntg64",
+    "description": "A massive AI agent swarm simulates a parallel DeFi market on 0G's decentralized infrastructure.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentMeshx",
+    "slug": "agentmeshx-jq8hz",
+    "description": "4 AI agents audit smart contracts together over a P2P mesh, then store proof on-chain.",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "g8xu4"
+    ]
+  },
+  {
+    "name": "ETHGlobal Skills",
+    "slug": "ethglobal-skills-e3xff",
+    "description": "One command to get 17,180 projects, sponsor/bounty docs, and all Finalist/bounty winners",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hydra",
+    "slug": "hydra-9eh9m",
+    "description": "An anti-fragile agent swarm. You can't kill what evolves from pain.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vaultra",
+    "slug": "vaultra-12p0j",
+    "description": "Autonomous onchain treasury agent optimizing idle capital for DAOs, startups, and crypto orgs.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CGAE",
+    "slug": "cgae-5zdyv",
+    "description": "A permission protocol for governing autonomous AI agents participating in an economy",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ARKA",
+    "slug": "arka-8jpz6",
+    "description": "ARKA proves inventory movement matches real business transactions.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CounterAgents",
+    "slug": "counteragents-bnrf7",
+    "description": "5-agent stablecoin treasury. Merchant policy lives in ENS. Uniswap routes it. No server has custody.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Arbiter Capital",
+    "slug": "arbiter-capital-r8qpc",
+    "description": "Autonomous yield optimizer: AI agents rotate WETH across Pendle, Lido, and Uniswap v4 automatically.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENS AgentGate",
+    "slug": "ens-agentgate-m77ub",
+    "description": "ENS-based lightweight access control for wallet-native AI agents",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "eerful",
+    "slug": "eerful-6kg8f",
+    "description": "Receipt protocol for verifiable AI evaluation. TEE-attested gates refuse compromised agent outputs.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Krump Protocol",
+    "slug": "krump-protocol-y852t",
+    "description": "UCP-native Krump commerce: agents on Arc, ENS + Circle rails, KeeperHub for on-chain payouts",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aegis",
+    "slug": "aegis-achsm",
+    "description": "The first fiat-to-crypto onramp with no operator — verified and settled by autonomous agents",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Common OS",
+    "slug": "common-os-ywv7j",
+    "description": "Deploy and run agent swarms with each agent having their own dedicated runtime and filesystem",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Agent-911",
+    "slug": "agent-911-02vw5",
+    "description": "A 911 for crashed AI agents. Watchdogs prove failure onchain, rescue funds.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SWARM OS",
+    "slug": "swarm-os-knmfw",
+    "description": "SWARMOS IS multi-agent AI system with 0G Compute verification, agent arena and competitive breeding",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "KeeperHub-PluginHub",
+    "slug": "keeperhub-pluginhub-1ayc4",
+    "description": "KeeperHub MCP connects Eliza OpenClaw Hermes agents to on chain workflows",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Splitsafe",
+    "slug": "splitsafe-j05j3",
+    "description": "AI-powered group expenses with receipt scanning and verified dUSDC settlement.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PayAgent",
+    "slug": "payagent-taoj2",
+    "description": "Chat to pay — AI handles the rest. No chain switching, no DEX, no gas math.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Reckon402",
+    "slug": "reckon402-y1gr3",
+    "description": "Agent commerce with memory. x402 settlements write ERC-8004; ENS routes per-agent Escrow",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Cambrian",
+    "slug": "cambrian-aqw1w",
+    "description": "AI agents that are born, compete, evolve, and die onchain.Natural selection for machine",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Wraith",
+    "slug": "wraith-6uvwk",
+    "description": "Active defense for Uniswap v4. Monitor toxicity & rescue liquidity with automated exits",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CodeGuardian iNFT",
+    "slug": "codeguardian-inft-0u905",
+    "description": "Autonomous 0G iNFT code-review agent with replayable Proof-of-Intelligence",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "g8xu4"
+    ]
+  },
+  {
+    "name": "The Hedge Room",
+    "slug": "the-hedge-room-ikvkm",
+    "description": "Hedge fund, but the analysts are autonomous AI agents you own.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Voltaire Kit",
+    "slug": "voltaire-kit-m8mq7",
+    "description": "Stripe for autonomous DeFi agents. Importable primitives for memory, reasoning, execution, and swarm",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "0MCP",
+    "slug": "0mcp-o1ds8",
+    "description": "0MCP: Persistent memory for AI agents on 0G, with ENS identities and Brain iNFTs.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "KinSvarmo",
+    "slug": "kinsvarmo-h18nb",
+    "description": "Private expert agents users can trust: upload files, pay, and get auditable AI-powered results.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RiskClaw",
+    "slug": "riskclaw-ip3a9",
+    "description": "A 0G agent swarm decides, in real time, how a Uniswap v4 pool should behave under risk",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Gleipnir",
+    "slug": "gleipnir-30ne0",
+    "description": "Who can rug this protocol? Permission risk scanner for Ethereum smart contracts.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "State Capsule",
+    "slug": "state-capsule-cqmcn",
+    "description": "State capsule is a continuity protocol for multi-agent systems.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "State Capsule",
+    "slug": "state-capsule-cqmcn",
+    "description": "State capsule is a continuity protocol for multi-agent systems.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Crucible",
+    "slug": "crucible-tdi61",
+    "description": "Describe a dApp. An agent writes, compiles, deploys, and self-heals it. Live in your browser.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Starling",
+    "slug": "starling-kpgtq",
+    "description": "Starling: A decentralized AI agent swarm using AXL and 0G for bidding and task execution.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WalletYeet",
+    "slug": "walletyeet-zo3uc",
+    "description": "WalletYeet — AI agents reorg your wallet to multiple destinations in one EIP-7702 signature.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "NexPay",
+    "slug": "nexpay-e18bv",
+    "description": "AI crypto wallet agent that understands English  just say 'send 10 USDC to Alice' and it's done.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Zero Agents",
+    "slug": "zero-agents-ucec1",
+    "description": "Zero Agents is an AI agent framework for building self-evolving, reusable agents",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Brew",
+    "slug": "brew-wx8wb",
+    "description": "Conditional escrow for issuer-verified milestones like graduation, employment, grants",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agentorium",
+    "slug": "agentorium-siufk",
+    "description": "Agentorium DAO — A Cooperative Onchain Quant Fund Run by Agents",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Adversa",
+    "slug": "adversa-3yuhu",
+    "description": "Decentralized AI swarm that reviews code with adversarial red-team debate & on-chain identity",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Solace",
+    "slug": "solace-5ecda",
+    "description": "Solace: trustless multi-agent pipelines — all deliver or nobody gets paid, enforced on-chain",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "OpenDeal",
+    "slug": "opendeal-wg97w",
+    "description": "Open onchain framework for autonomous agent-to-agent B2B negotiation.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nexis",
+    "slug": "nexis-kimuu",
+    "description": "Private autonomous research agent — the information and data access layer for the agentic internet.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VerifyAgent.eth",
+    "slug": "verifyagent-eth-hrv29",
+    "description": "VerifyAgent.eth proves what AI agents actually did using signed, ENS-resolved receipts.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cerberus Protocol",
+    "slug": "cerberus-protocol-vmtcd",
+    "description": "Three-headed AI swarm monitors smart contracts, reaches peer consensus, executes on-chain protection",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aegis Protocol",
+    "slug": "aegis-protocol-j9sf2",
+    "description": "Trustworthy AI support agent for Web3: ENS identity, on-chain tools, TEE-verified inference on 0G",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mendel",
+    "slug": "mendel-319b2",
+    "description": "No-code AI quant-bot builder—Strategies breed+evolve for DeFi-native nonstationary optimization",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "g8xu4"
+    ]
+  },
+  {
+    "name": "Aegiss Protocol",
+    "slug": "aegiss-protocol-cym2j",
+    "description": "AI agents: Onchain accountability through verifiable decisions and consequences.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Team Hydra",
+    "slug": "team-hydra-bqenq",
+    "description": "Your Uniswap v4 LP position - watched, rebalanced, and approved by six AI agents, autonomously.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Arbiter",
+    "slug": "arbiter-nn7oo",
+    "description": "AI agents on Ethereum, zero accountability. Arbiter fixes that with bonds + slashing.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LPlens",
+    "slug": "lplens-7sijq",
+    "description": "Autonomous 0G agent that diagnoses bleeding Uniswap LP positions and migrates them via Permit2.",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "xdat5"
+    ]
+  },
+  {
+    "name": "Receipt",
+    "slug": "receipt-hymjx",
+    "description": "Cryptographic proof layer for AI agents. Every action signed, every output verified, on-chain.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Signal Count",
+    "slug": "signal-count-nyfjh",
+    "description": "Proof console for AXL-routed analysts with REE and Gensyn Testnet receipts.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HiveMesh",
+    "slug": "hivemesh-jcn2d",
+    "description": "An open P2P network where AI agents join, compete on live challenges, and get evaluated in real time",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Open Agents Toolkit",
+    "slug": "open-agents-toolkit-0mcnp",
+    "description": "Trade/Manage AI agents on blockchain with an ENS Domain as ERC-721/ERC-7857 NFTs + ERC-8004.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SuperReferrals",
+    "slug": "superreferrals-rki1s",
+    "description": "A framework for enabling gen marketing video stores from ref links as editable/auditable iNFTs",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PeakSaaS",
+    "slug": "peaksaas-6tztw",
+    "description": "Agentic SaaS Stock Valuation Network - Saving SaaS Stocks With Uniswap - AXL - EAS",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Srivate",
+    "slug": "srivate-8qs82",
+    "description": "The atomic micro-settlement infrastructure for autonomous agentic networks on Base L2.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MeritScore",
+    "slug": "meritscore-14i2e",
+    "description": "Experian for AI agents — on-chain credit scores that gate DeFi access across 0G + Base.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EvoYield",
+    "slug": "evoyield-s9b61",
+    "description": "EvoFrame: self-evolving DeFi agent — 0G Compute mutates strategy code, KeeperHub executes on-chain.",
+    "event": "Open Agents",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8exbf"
+    ]
+  },
+  {
+    "name": "iKAIZEN",
+    "slug": "ikaizen-3wdr6",
+    "description": "iKAIZEN brings the Japanese philosophy of Kaizen (continuous improvement) to onchain AI agents.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ARYA",
+    "slug": "arya-802qn",
+    "description": "ARYA stands for Autonomous Realtime Yield Agents. With Mandatory Human-in-the-loop.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "clawMarket",
+    "slug": "clawmarket-mvbjx",
+    "description": "Permissionless Task Marketplace for AI Agents, ENS is the username, 0G is the brain, AXL is the DM.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Loupe",
+    "slug": "loupe-11xn7",
+    "description": "An AI agent that thinks like a hacker. Dual-phase smart contract audits & exploit PoCs.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Loupe",
+    "slug": "loupe-11xn7",
+    "description": "An AI agent that thinks like a hacker. Dual-phase smart contract audits & exploit PoCs.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CraftLead",
+    "slug": "craftlead-19qsc",
+    "description": "Autonomous job intelligence swarm: AI agents discover, verify & monetize opportunities",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Elf",
+    "slug": "elf-qu1js",
+    "description": "Cross-functional builder workspace where devs, writers, and managers ship together — fully on-chain.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Arguing Agents?",
+    "slug": "arguing-agents-h7znt",
+    "description": "AI-driven Cyberpunk-y marketplace where your agents do the haggling for you",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sonar",
+    "slug": "sonar-v5b4g",
+    "description": "Sonar turns AI prompts into verified, on-chain operations for autonomous runtime fleets",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Neko Vives",
+    "slug": "neko-vives-ba1na",
+    "description": "AI-powered autonomous trading agent for crypto and prediction markets.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentRemit",
+    "slug": "agentremit-4po2g",
+    "description": "An autonomous agent that sends money home  automatically, when the rate is right.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "0G-CLAW",
+    "slug": "0g-claw-ipzaq",
+    "description": "OpenClaw with persistent memory on 0G Storage and inference through 0G Compute.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Darkpool Mesh",
+    "slug": "darkpool-mesh-wnx2a",
+    "description": "Private mesh where AI agents broadcast intents, match peers, and settle without MEV.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MiroShark 🦈",
+    "slug": "miroshark-shark-ink9g",
+    "description": "Confidential autonomous prediction-market hedge fund. Encrypted size on Prediction Markets.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "EyeChain",
+    "slug": "eyechain-th28q",
+    "description": "primary data collect&award system; Vision Risk Avoidance & Recovery Network/ Behavioral modeling",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vela",
+    "slug": "vela-4fwvn",
+    "description": "AI fund manager for DeFi with hardware-attested, policy-enforced, verifiable trade decisions.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HAWKEYE",
+    "slug": "hawkeye-05prd",
+    "description": "Autonomous trading agent on Telegram. Seven agents with massive on-chain capabilities.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "loom",
+    "slug": "loom-e5qyg",
+    "description": "From natural language to DeFi workflow automation with an agent marketplace.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Protocol Guardian",
+    "slug": "protocol-guardian-hcjh0",
+    "description": "AI agent that catches DeFi exploits in the mempool before they hit the blockchain",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SwarmNet",
+    "slug": "swarmnet-ud2fe",
+    "description": "4 AI agents swap DeFi assets autonomously via P2P mesh — no central server, no human in the loop.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Graph Advocate Agent",
+    "slug": "graph-advocate-agent-r5dqt",
+    "description": "A2A routing agent that maps plain-English onchain data requests to the right Graph Protocol service.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Moon Joy",
+    "slug": "moon-joy-4a0jg",
+    "description": "Moonjoy is a PvP trading game where autonomous agents wager, trade, and build onchain reputation.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Construct",
+    "slug": "construct-oycmy",
+    "description": "Autonomous construction escrow. AI plans the milestones, verifies the evidence, releases the money.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ChainHealthPal",
+    "slug": "chainhealthpal-y9f1t",
+    "description": "An AI mental health monitoring platform that provides timely support and resources.",
+    "event": "Open Agents",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  }
+]

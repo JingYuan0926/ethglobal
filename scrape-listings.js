@@ -9,6 +9,7 @@ const OUTPUT_FILE = path.join(DATA_DIR, 'listings.json');
 
 // Recent events (2024-2026)
 const EVENTS = [
+  'openagents',      // Open Agents (2026)
   'hackmoney2026',
   'buenosaires',
   'ethonline2025',
@@ -18,7 +19,7 @@ const EVENTS = [
   'cannes',
   'prague',
   'taipei',
-  'agents',
+  'agents',          // Agentic Ethereum (early 2025) — NOT Open Agents
   'bangkok',
   'sanfrancisco2024',
 ];
