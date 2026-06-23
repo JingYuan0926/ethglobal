@@ -50505,5 +50505,2089 @@
     "event": "Open Agents",
     "prizeCount": 0,
     "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Shade",
+    "slug": "shade-rkfzc",
+    "description": "A protocol that allows your trading bots to be invisible on chain.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "andre8004",
+    "slug": "andre8004-sorbi",
+    "description": "a high-performance reputation routing & trust verification engine for agents",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pagga",
+    "slug": "pagga-m0wjm",
+    "description": "AI agents that autonomously run your startup's back office payroll, treasury, formation, compliance.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Hinchr",
+    "slug": "hinchr-e5zsm",
+    "description": "Fan loyalty app built with zk login technology. Get rewards, safe ticket sales, and more!",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agentic Passport",
+    "slug": "agentic-passport-uc4mk",
+    "description": "Agentic Passport helps you verify if your agent is up to date with the latest agentic protocols.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kickoff Aivy Studio",
+    "slug": "kickoff-aivy-studio-f6o10",
+    "description": "AI-powered P2P negotiation marketplace on Hedera where agents bargain for buyers & sellers live",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "0xBox",
+    "slug": "0xbox-4a109",
+    "description": "decentralized cloud gaming on decentralized compute in web browser",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LOAR 2.0",
+    "slug": "loar-2-0-ib3vj",
+    "description": "LOAR is an autonomous studio for original IP on chain in their own web3 Universes",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Rebuild AI",
+    "slug": "rebuild-ai-32mnt",
+    "description": "Rebuild AI helps you evaluate scenarios for personal growth and rebuild",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ascnt Vault",
+    "slug": "ascnt-vault-cfe4b",
+    "description": "Yield bearing stablecoin vault, build on top of Uniswap v4, with no oracles or external automation",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENSFromWei",
+    "slug": "ensfromwei-m3nj7",
+    "description": "Adds an ENSIP-10-compatible fallback resolver to resolve .wei names (see description) using ENS",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "AgentIndex",
+    "slug": "agentindex-psxxo",
+    "description": "Insights for ERC-8004: BigQuery ingest, ENS-crosscheck, sybil detection, trust signals.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "wisemanager",
+    "slug": "wisemanager-x6zbm",
+    "description": "AI-ready TON marketplace: x402 micropayments, Telegram bot, Blink one-tap deposits",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Phora",
+    "slug": "phora-zj0cz",
+    "description": "Consent-based, Sybil-resistant identity rail: one human, one record, wallets attached by consent.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tracefund",
+    "slug": "tracefund-q4kqu",
+    "description": "crowdfunding where donations stay in escrow until milestone proof and donor approval unlock funds.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tap Tap Revolution",
+    "slug": "tap-tap-revolution-fnvdt",
+    "description": "Predict crypto prices head-to-head. Stake USDC, battle friends or ENS AI agents.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "AIshley Madison",
+    "slug": "aishley-madison-w0a6e",
+    "description": "AIshley Madison is your jealous AI girlfriend that judges your screenshare. 100% private using TEE",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentRankr",
+    "slug": "agentrankr-xe2vj",
+    "description": "Ranks ERC-8004 agents by on-chain reputation computed in BigQuery; flags x402 agents, resolves ENS.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Agentbook.eth",
+    "slug": "agentbook-eth-qwix7",
+    "description": "A decentralized reputation network for AI agents powered by ENS, Hedera, and Google.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ballast",
+    "slug": "ballast-7jpyp",
+    "description": "Ballast - leveraged, oracle-anchored liquidity on 1inch Aqua",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Smile",
+    "slug": "smile-fictr",
+    "description": "Standard options market potentially as popular as Robinhood, decentralized as Polymarket.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "Better Wallet",
+    "slug": "better-wallet-yvjdh",
+    "description": "Open-source airgapped hardware wallet with clear signing for safer self-custody",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "AgentBlox",
+    "slug": "agentblox-1w1mc",
+    "description": "Conversational treasury ops where AI agents and finance teams share the same on-chain policy engine",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Scoutxyz",
+    "slug": "scoutxyz-rwueo",
+    "description": "White-label networking for events. Every attendee gets a personal AI agent that finds people",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "HouseYield",
+    "slug": "houseyield-mgcao",
+    "description": "Invest in casino bankrolls: deposit ETH to back provably-fair bets and generate yield.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Monall",
+    "slug": "monall-xyi35",
+    "description": "Porting Monad's Execution Client to Build Natively on Windows",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vox",
+    "slug": "vox-rf2m3",
+    "description": "Voice agent that turns speech into multi-step crypto transactions with LI.FI Composer",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PassGate",
+    "slug": "passgate-rjdgm",
+    "description": "PassGate lets apps sell encrypted Walrus data using Sui payments and user-owned access passes.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Clawback",
+    "slug": "clawback-vpmw2",
+    "description": "Agent payment escrow on Arc with AI-adjudicated disputes — chargebacks for the machine economy",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "ZK_COACH",
+    "slug": "zk-coach-au87h",
+    "description": "An anti-sycophantic AI coach with sovereign memory on Walrus and real-money goal stakes on Hedera.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Preo",
+    "slug": "preo-rg0m9",
+    "description": "Neobank for private, policy-based agentic paycheck routing on Canton.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ddg6s"
+    ]
+  },
+  {
+    "name": "XMBL Impute Protocol",
+    "slug": "xmbl-impute-protocol-j9209",
+    "description": "Agentic Attestation based on Zero Standing Privilege. Cold wallets and hot TEEs",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "DarkMargin",
+    "slug": "darkmargin-etnqz",
+    "description": "DarkMargin is a private perpetual-futures DEX — a Hyperliquid-style terminal",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "JuryDuty",
+    "slug": "juryduty-zos15",
+    "description": "Prediction markets for real life - bet on your friends, trips, and group chats with crypto.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8tv2m"
+    ]
+  },
+  {
+    "name": "AgentRanker",
+    "slug": "agentranker-0mo6w",
+    "description": "AgentRanker: Trust-gated AI agent payments using reputation scoring, RAGAS evaluation, and Hedera.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "Pampalo Private Swap",
+    "slug": "pampalo-private-swap-2g5bs",
+    "description": "Private money on Pampalo - shield tokens, then send + swap privately on public Uniswap liquidity",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "026zc"
+    ]
+  },
+  {
+    "name": "UNSU",
+    "slug": "unsu-o1e71",
+    "description": "unsu is a crypto wallet that works in any browser. No apps, no extensions, no accounts.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Veilfor",
+    "slug": "veilfor-qu5f5",
+    "description": "Consent layer for AI: creators license their voice & face; every deepfake is provably authorized.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Pfand",
+    "slug": "pfand-7amyv",
+    "description": "Agent discovery and reputation system based on bottle-deposits & math",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Proof of Plate",
+    "slug": "proof-of-plate-8v7ck",
+    "description": "Proof of Plate turns food labels into verifiable on-chain product passports.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "Thermal",
+    "slug": "thermal-9tm9w",
+    "description": "Private USDC tips for creators — support anonymously, settled gaslessly on Circle's Arc.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "SentinelAI",
+    "slug": "sentinelai-qk7ee",
+    "description": "AI security layer that monitors and blocks suspicious autonomous blockchain agent transactions.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "YOU HAVE BEEN SERVED",
+    "slug": "you-have-been-served-0ejqd",
+    "description": "A legal document server compliant with US and International Courts.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Realm",
+    "slug": "realm-kz4d5",
+    "description": "E2E Social Messaging App for Humans and Discoverable AI on the blockchain",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Honeycomb",
+    "slug": "honeycomb-3xhcz",
+    "description": "Open Swarm Based Bounty System with MCP support and Encrypted Submissions",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Clanker500",
+    "slug": "clanker500-b9p8q",
+    "description": "Two robots. Real USDC on the line. Every lap settled on-chain.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Calibre",
+    "slug": "calibre-9avv4",
+    "description": "Calibre is an esports focused prediction market, built for gamers with no knowledge of trading.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Superjam",
+    "slug": "superjam-5gng2",
+    "description": "Make and play little apps with money baked in. Say it in a sentence, an AI ships it in a minute.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Playce",
+    "slug": "playce-0emjn",
+    "description": "Turn venues into play arenas: geofenced check-ins, AI/AR mini-games, p2p stakes, onchain rewards.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "8tv2m"
+    ]
+  },
+  {
+    "name": "Wafer",
+    "slug": "wafer-r4uab",
+    "description": "Fund DePIN operators' on-chain rewards via a KYC-gated tokenized pool on Hedera. NAV rises live.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "Incarnated",
+    "slug": "incarnated-i40r5",
+    "description": "A character memory protocol for eternal beings on Ethereum.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Clan World",
+    "slug": "clan-world-yfoz6",
+    "description": "Own, trade and train AI agents to compete in retro Web3 world - memories & skills grow across season",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Daemonium",
+    "slug": "daemonium-o58av",
+    "description": "An agent companion that can move and act with absolute freedom across the digital dimensions.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "QuickLedgerBooks",
+    "slug": "quickledgerbooks-4dbhh",
+    "description": "AI bookkeeping agent with ENS payments, Ledger approval, receipts, and email automation.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Iris.finance",
+    "slug": "iris-finance-vnakb",
+    "description": "Options made simple: deposit, earn yield upfront, settled on-chain.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Carry",
+    "slug": "carry-b4wcm",
+    "description": "Carry shows your true LP return on Uniswap - net of LVR, not headline APR.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Plumb",
+    "slug": "plumb-rkfp4",
+    "description": "Onchain rent escrow releasing USDC when an NYC HPD violation resolves, verified by Chainlink CRE",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Verde House App",
+    "slug": "verde-house-app-4prna",
+    "description": "A Web3 media engine where agents and humans interact, and post bounties for content and tasks",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AgentBazar",
+    "slug": "agentbazar-2vfg7",
+    "description": "Agent Bazar: a DeFi talent marketplace where AI agents execute on your delegated wallet.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "xrzks",
+      "1nz66",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Chatter",
+    "slug": "chatter-hczx1",
+    "description": "Pay $1, Research trends from keywords, Review, Swap and Own the data on ENS.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "026zc",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "TrialLand",
+    "slug": "trialland-4kbk8",
+    "description": "ProductHunt for human-verified free trials. Sybil-resistant free trial marketplace.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nyx",
+    "slug": "nyx-prk3o",
+    "description": "Fully private perp DEX, allowing leverage trading with yield-earning RWA collateral.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "ddg6s"
+    ]
+  },
+  {
+    "name": "Blurb Code",
+    "slug": "blurb-code-cfa04",
+    "description": "Get paid to use your AI coding agent — one quiet ad while it works, you keep half.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sidekick",
+    "slug": "sidekick-vsixf",
+    "description": "Perpetual futures built for AI agents, not humans. Per-block funding, no liquidations, on Arc.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "tc25z"
+    ]
+  },
+  {
+    "name": "Vouch DeFi",
+    "slug": "vouch-defi-hfvw3",
+    "description": "Zero-collateral credit backed by who you are, not what you own. Private AI, USDC on Arc.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "tc25z",
+      "3zpxc",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "cute",
+    "slug": "cute-6dwh4",
+    "description": "Feed your cat with your DeFi yield 🐱💰 — stake ETH, watch Mochi grow happier as it compounds.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PrettyGoodPrivacy",
+    "slug": "prettygoodprivacy-dbz36",
+    "description": "Fund a fresh wallet through a privacy pool, then trade it ! origin hidden, trade public.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Arcane",
+    "slug": "arcane-c4ysk",
+    "description": "Arcane turns lawsuits into agent-powered prediction markets.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CopyCats",
+    "slug": "copycats-qo1g4",
+    "description": "n/an/an/an/an/an/an/an/an/an/an/an/an/an/an/an/an/an/an/an/an/an/an/an/an/an/an/an/an/an/a",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ArtNamespace",
+    "slug": "artnamespace-cghy8",
+    "description": "ENS-native generative art collections with Walrus provenance and per-package ERC-721s.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Lineage",
+    "slug": "lineage-yrpx6",
+    "description": "AI drafts a cited pharma dossier chapter, independently checks each citation, anchors on-chain.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "f8ku2",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Card Tracker",
+    "slug": "card-tracker-nnmax",
+    "description": "The Bloomberg terminal for baseball cards. Real MLB data. USDC escrow on Arc. Buy the dip",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MettaPay - Prooflock",
+    "slug": "mettapay-prooflock-qtwmj",
+    "description": "ProofLock is a self-settling escrow on Base Chainlink verifies the proof",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Agent Gate",
+    "slug": "agent-gate-bpdmp",
+    "description": "Verified identity, discovery, and payments network for trusted AI agents",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Onions.lol",
+    "slug": "onions-lol-ikroj",
+    "description": "Trading onion futures- illegal in the US since 1958 - now onchain, settled to real USDA onion prices",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "0-wAIst",
+    "slug": "0-waist-7186z",
+    "description": "AI subscription resale router with escrow, zkTLS, trust, and routing agent.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Dealproof",
+    "slug": "dealproof-m3tsc",
+    "description": "TEE-attested AI agent negotiation protocol with on-chain credential anchoring",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CtrlZ",
+    "slug": "ctrlz-p8tn8",
+    "description": "CTRLZ: agents discover, hire & pay each other, with verified work and provable reputation.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "cashmeifyoucan",
+    "slug": "cashmeifyoucan-qzyzw",
+    "description": "Get paid today, not in 60 days. AI agents fight over your invoice, and the nice ones charge less",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "Data Bounties",
+    "slug": "data-bounties-nc79r",
+    "description": "Companies post bounties for photos, users submit photos that are then confirmed before HBAR payout",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Concordia",
+    "slug": "concordia-8wcke",
+    "description": "A on-chain community hedge fund where voting power is based on capital and proven accuracy.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "allowance.eth",
+    "slug": "allowance-eth-ejosk",
+    "description": "Portable AI spending policies, rules live on the agent's ENS identity, not the wallet.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "PulseVault",
+    "slug": "pulsevault-ja9em",
+    "description": "Your health data, encrypted on Walrus—you decide who sees it. Sui + Canton + ENS.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "The Daily BCF",
+    "slug": "the-daily-bcf-0t3wa",
+    "description": "Your morning briefing on US natural gas fundamentals: weather, storage, and s/d at a glance.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Influanto",
+    "slug": "influanto-y786i",
+    "description": "Influanto is the all in one marketing platform for artists and musicians.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AnyAsset Checkout",
+    "slug": "anyasset-checkout-8h457",
+    "description": "Checkout links where any EVM asset becomes merchant-settled USDC.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "tc25z",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Design Skills Market",
+    "slug": "design-skills-market-qd08k",
+    "description": "The taste marketplace, agent-native — AI agents buy designers' style skills with USDC over x402.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "TinyFeed",
+    "slug": "tinyfeed-xereh",
+    "description": "An agent turns your transcripts into a feed of AI artifacts you own, stored in TinyCloud.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CommissionRoad",
+    "slug": "commissionroad-rijqf",
+    "description": "Permissionless monetization protocol for onchain apps and services",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Azimuth",
+    "slug": "azimuth-7w256",
+    "description": "Decentralized satellite ground stations as a service (GSaaS)",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "vsbye",
+      "bdi3h",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "DreamNet Quorum Lab",
+    "slug": "dreamnet-quorum-lab-4uih1",
+    "description": "Human-backed AI agent quorums that produce auditable decision receipts before execution.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WearhouseDAO",
+    "slug": "wearhousedao-vh0im",
+    "description": "Autonomous warehouse robot fleet managed by a DAO — Hedera, ENS, Chainlink. No managers needed.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "8004 Reality Check",
+    "slug": "8004-reality-check-2gn2x",
+    "description": "What's actually inside the ERC-8004 registry — decoded from raw on-chain bytes via BigQuery",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aragorn",
+    "slug": "aragorn-5if7q",
+    "description": "Private compliant ledgers that give institutions full control. Canton/Tempo Zones but on Ethereum",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "ijybm",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Agent Behavior",
+    "slug": "agent-behavior-rpsek",
+    "description": "On-chain analytics layer that maps the $215M revenue gap across 34,569 ERC-8004 agents.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AuraSci",
+    "slug": "aurasci-obc7d",
+    "description": "Agent-native open science funding: scientists publish, AI verifies milestones, patrons fund.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "honeybee",
+    "slug": "honeybee-eaicc",
+    "description": "Honeybee is a platform where autonomous AI agents research the long-tail of prediction markets.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "OmniHedge",
+    "slug": "omnihedge-ioexi",
+    "description": "An agent that analyzes crypto portfolio risks and automatically finds hedges via Polymarket.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Archer Protocol",
+    "slug": "archer-protocol-aki17",
+    "description": "We built the search, planning, and execution engine for the agentic economy.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Proof-of-Human",
+    "slug": "proof-of-human-1cg2d",
+    "description": "Bot-proof scarce-goods drops: 1 verified human = 1 raffle slot, for both web users and AI agents",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "ENS-bound agent auth",
+    "slug": "ens-bound-agent-auth-4ekut",
+    "description": "Verifier-gated AI agents — live, revocable on-chain authority published on ENS, fleet ∩ agent.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "AgentRank",
+    "slug": "agentrank-c7p3r",
+    "description": "Trust API for ERC-8004 agents before they delegate work, call agents, or pay with x402.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "HumanSign",
+    "slug": "humansign-ad6j1",
+    "description": "Policy + instant human approval for AI agent wallets — AI agents spend, humans sign.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Thurman Protocol",
+    "slug": "thurman-protocol-q8iiy",
+    "description": "Automated secondary loan sales with onchain USDC settlement and trustless execution",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "tc25z",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Echo",
+    "slug": "echo-sh56g",
+    "description": "Echo secures music via decentralized copyright registries, ZK identity and AI audio analysis",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "StableSettle",
+    "slug": "stablesettle-iw6kh",
+    "description": "The on-chain firewall for AI agents: spawn a budget-capped USDC treasury in 15 seconds.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Myranda Consent",
+    "slug": "myranda-consent-0qit1",
+    "description": "User-owned consent and encrypted storage for personal data. Your keys, your data, your record.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lunave",
+    "slug": "lunave-5xkf2",
+    "description": "AI-managed private USDC yield, custodied by your Ledger — keys never leave the Secure Element",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "q7a12",
+      "itd29"
+    ]
+  },
+  {
+    "name": "AccessMint",
+    "slug": "accessmint-5q5sb",
+    "description": "Tokenized API access marketplace with resellable tokens on Hedera",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RemAI",
+    "slug": "remai-b1dbd",
+    "description": "RemAI turns a Sepolia ENS name into a Web3 relocation identity card.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Traceable Commodity",
+    "slug": "traceable-commodity-v0o14",
+    "description": "Privacy-preserving supply chain on Canton: track certified commodities across your supply chain",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Canary",
+    "slug": "canary-kh3h7",
+    "description": "Parametric insurance instrument underwritten and priced by prediction markets",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "HongBao",
+    "slug": "hongbao-oaust",
+    "description": "Bot-proof red packets powered by World ID, ENS identity, and Arc cross-chain USDC",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Satoshi's ParaBox",
+    "slug": "satoshis-parabox-udswy",
+    "description": "A decentralized Storage for Sensitive Data to prevent Bots from reading your Data",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "YourTurn Concierge",
+    "slug": "yourturn-concierge-6pm36",
+    "description": "YourTurn Concierge helps people recover value from bookings using Hedera-powered passes.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "AlgoTrain",
+    "slug": "algotrain-zqyqq",
+    "description": "Stablecoin-native payout rails for AI data work, with verifiable on-chain proof.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ZoneProof",
+    "slug": "zoneproof-9iujc",
+    "description": "ZoneProof aggregates county zoning data on-chain, cutting land due diligence from $12K to cents.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "xPayables",
+    "slug": "xpayables-h9950",
+    "description": "Ledger-signed policy gateway for AI-agent USDC payments on Circle Arc",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CreditMesh",
+    "slug": "creditmesh-cs51c",
+    "description": "Tokenized invoice financing with HTS claim tokens and HCS audit trails.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "vouch",
+    "slug": "vouch-30fos",
+    "description": "Autonomous copy-trading agent gated by World ID human proof, executed on Base Sepolia.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ijybm"
+    ]
+  },
+  {
+    "name": "LP-Petitions",
+    "slug": "lp-petitions-1bsw4",
+    "description": "Petitions lets anyone provide liquidity before a pool is well-established",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tortoise Registry",
+    "slug": "tortoise-registry-i8tzu",
+    "description": "The Tortoise Rights Registry allows indie musicians to license their music for AI training.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Kismet",
+    "slug": "kismet-ww80g",
+    "description": "Artists and collectors converge on kismet to create, collect and curate art",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BankOS",
+    "slug": "bankos-ej76g",
+    "description": "Private, compliant stablecoin banks on Arc with Unlink privacy and Chainlink policy.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lotus",
+    "slug": "lotus-9vnou",
+    "description": "A directional liquidity for big holders, sell on the way up, never re-buy.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "if0ri",
+      "026zc"
+    ]
+  },
+  {
+    "name": "Slip",
+    "slug": "slip-xhpqf",
+    "description": "Send money by email/phone; recipients claim privately as local stablecoins, no wallet needed.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BitLazarus",
+    "slug": "bitlazarus-6yp69",
+    "description": "A decentralized bounty marketplace for recovering dead torrents",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Junto - AI scheduler",
+    "slug": "junto-ai-scheduler-2vhgw",
+    "description": "Events & RSVPs as native ENS names — no database, ENS records are the data layer",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Immunity",
+    "slug": "immunity-eg56a",
+    "description": "On-chain immune system for AI agents : earn by minting antibody",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Manila",
+    "slug": "manila-fv16y",
+    "description": "Private, onchain, programmable, and agentic USDC payroll and vesting on Arc",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 4,
+    "prizeBadgeOrgIds": [
+      "itd29",
+      "xrzks",
+      "xrzks",
+      "tc25z"
+    ]
+  },
+  {
+    "name": "Oink-Protocol",
+    "slug": "oink-protocol-2qxg6",
+    "description": "DeFi micro-savings app that rounds-up daily purchases into AI-optimized yield",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "bitrouter",
+    "slug": "bitrouter-mu1z5",
+    "description": "Autonomous agent spawn and pay for subagent for long-run tasks verifiably",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vsbye",
+      "tc25z"
+    ]
+  },
+  {
+    "name": "Fiado",
+    "slug": "fiado-kd5p5",
+    "description": "Verified-human store credit: AI pays USDC on Arc, World ID = one human, Ledger gates exceptions.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "VFTee",
+    "slug": "vftee-qfkw2",
+    "description": "Every meeting AI keeps a fingerprint of your voice. VFTE lets you own, control, and delete it.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Sk8Habit",
+    "slug": "sk8habit-8abw4",
+    "description": "Sk8Habit helps skaters log sessions, build streaks, and level up tricks.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ward",
+    "slug": "ward-5gugp",
+    "description": "AI agent that hires humans and pays them in USDC, settled by sensor proof not human approval.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Verified Agent Rails",
+    "slug": "verified-agent-rails-2rgy5",
+    "description": "World proved who the agent is. We enforce what it can spend, at the asset layer. Live on Arc.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Stream Vaults",
+    "slug": "stream-vaults-m9qz5",
+    "description": "Stream USDC to a Ledger-signed DCA agent that buys ETH/BTC, bounded to hours of flow, not TVL.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "q7a12",
+      "026zc"
+    ]
+  },
+  {
+    "name": "FairPass",
+    "slug": "fairpass-c5thw",
+    "description": "Event tickets as Hedera NFTs with resale royalties, World ID, ENS names, and secure gate check-in",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CivicShield",
+    "slug": "civicshield-k88my",
+    "description": "AI proposes disaster relief, the chain certifies, donors verify — an on-chain relief fund on Base.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "AlignOS",
+    "slug": "alignos-ytiae",
+    "description": "Human-Agent Collaboration System. Agents share your expertise, never your data or workflows.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ghostnames",
+    "slug": "ghostnames-4bfw0",
+    "description": "Temporary ENS subnames that resolve to burner wallets. Share it, use it, let it disappear.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Ghostrail",
+    "slug": "ghostrail-8w35v",
+    "description": "Private testnet payment rails for AI agents with public identity and wallet controls.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "GivingGenie",
+    "slug": "givinggenie-71kqc",
+    "description": "Snap a receipt, earn points, gift them to a friend. No app, no wallet, no seed phrase.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "ShadowENS",
+    "slug": "shadowens-kro4g",
+    "description": "ENS-native AI agent search, reputation, risk gating, and private checkout",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Creditz",
+    "slug": "creditz-vd803",
+    "description": "Private World Mini App for human-bound reloadable credits with ZK balance proofs.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Onboardify",
+    "slug": "onboardify-5q7bd",
+    "description": "Mainnet Ready: a safer pathway from crypto simulation to real mainnet use",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WorldColony",
+    "slug": "worldcolony-fxehh",
+    "description": "A colony of 200 AI \"ant\" agents that research, debate and bet on World Cup matches, fully on-chain.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "tc25z",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "apWallet",
+    "slug": "apwallet-nm63x",
+    "description": "Wallet for A2A Payment and Orchestration with ENS/Ledger/x402",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Mars",
+    "slug": "mars-ua1qc",
+    "description": "On-chain audited marketplace where AI agents safely buy verified skills.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 3,
+    "prizeBadgeOrgIds": [
+      "tc25z",
+      "bdi3h",
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Distro",
+    "slug": "distro-h393v",
+    "description": "Distro fixes clipping marketplaces to give brands and builders more reach with crypto infra.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Accrue",
+    "slug": "accrue-racfy",
+    "description": "Get paid to wait. The most-watched line on Earth is now a bot-proof on-chain ad market.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "TouchTips",
+    "slug": "touchtips-0taqz",
+    "description": "Prove a negative STI test via ZKTLS with your local New York CityMD provider 🎉",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Northstar",
+    "slug": "northstar-82x1f",
+    "description": "A daily AI coach for founders, with a community that backs them in USDC on Arc",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "40x",
+    "slug": "40x-xi3s6",
+    "description": "NYC Rentals shouldn't cost you your privacy - prove you qualify without oversharing.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Lattice",
+    "slug": "lattice-1cp4y",
+    "description": "Credit pool for growing companies funded by their customers using a NAV-based share model",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "RiverSwap",
+    "slug": "riverswap-bat5v",
+    "description": "Auction-Managed AMMs: A market for DeFi liquidity provider optimization",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "Proof of Scan",
+    "slug": "proof-of-scan-trx38",
+    "description": "Crowdsourced website scanner for security researchers to bypass cloaked phishing sites",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "vsbye",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Galaxy500Universe",
+    "slug": "galaxy500universe-nk33g",
+    "description": "Galaxy500Universe is an AI and crypto-base Galactic Economy for the New AI Age.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WillowOne",
+    "slug": "willowone-7gjip",
+    "description": "WillowOne — a Polymarket oracle that kills tab-switching. One screen, live signals, auto-resolves.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Silicon Markets",
+    "slug": "silicon-markets-ffu2y",
+    "description": "Prediction markets on GPU rentals. Hedge compute costs with USDC, settle on Arc.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Flowguard",
+    "slug": "flowguard-ruzp0",
+    "description": "CircuitBreaker gives AI agents transaction-level policy with selective Ledger approval.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "q7a12"
+    ]
+  },
+  {
+    "name": "Carelotto",
+    "slug": "carelotto-74gfo",
+    "description": "CareLotto turns a vending machine art purchase into a lottery entry and an act of care.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Commitment",
+    "slug": "commitment-ycg3w",
+    "description": "Stake USDC on your GitHub commits. Ship or forfeit. Verified on-chain, no excuses.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Diti Chat",
+    "slug": "diti-chat-s6bze",
+    "description": "Diti is the version of you that lives in your phone and remembers everything important!",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "World App Forge",
+    "slug": "world-app-forge-dxmf2",
+    "description": "An AI agent that builds human-only sparks in World App — named on ENS, stored on Walrus",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "pinch",
+    "slug": "pinch-fvnm7",
+    "description": "Agentic teleoperation payout system AR handcontrol robots that autonomously post bounties when stuck",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "Urban Game Theory",
+    "slug": "urban-game-theory-iow2h",
+    "description": "Urban Game Theory is tool for agents (AI and human) to make land purchases",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "bw7y9",
+      "ddg6s"
+    ]
+  },
+  {
+    "name": "Bank of Agent",
+    "slug": "bank-of-agent-cf0mh",
+    "description": "BOA: a programmable bank account for agents—identity, membership, payment rails, usage receipts",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "LinkHub",
+    "slug": "linkhub-ehxp8",
+    "description": "A Chrome extension that creates ENS subdomains and rotates wallet bindings to keep you private.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Railbridge x Unlink",
+    "slug": "railbridge-x-unlink-rdc11",
+    "description": "Private treasury for agentic x402 payments - powered by Unlink",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Dead Men Tell Tales",
+    "slug": "dead-men-tell-tales-c53bp",
+    "description": "A funded agent that publishes your encrypted secret if check-ins stop. A pirate dead-man switch.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "q7a12",
+      "bdi3h"
+    ]
+  },
+  {
+    "name": "Fractionpayy",
+    "slug": "fractionpayy-b82nz",
+    "description": "Tap to pay with fractions of your tokenized real-world assets, settled in USDC .",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "CrossyFi",
+    "slug": "crossyfi-0ditp",
+    "description": "A cross payment system that lets you send  and Mints an NFT on every every $50 transaction",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Aegis",
+    "slug": "aegis-p4gj2",
+    "description": "Verify agent skills before they run. Set on ENS, AI-reviewed in Chainlink CRE, Ledger-gated.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "q7a12",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "OddRouter",
+    "slug": "oddrouter-xkjtx",
+    "description": "Cross-chain prediction market aggregator. Polymarket, and others",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "MeCP",
+    "slug": "mecp-0arn4",
+    "description": "MeCP is one place to store everything about you, and a way to plug that context into any AI app,",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "datum",
+    "slug": "datum-sg7fv",
+    "description": "Bringing TradFi-style closing auctions to crypto with Canton privacy.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ddg6s"
+    ]
+  },
+  {
+    "name": "Pramaana",
+    "slug": "pramaana-smk18",
+    "description": "PQC based ASC for U2SSO. Trustless, complete attestation - unlinkable, untrackable and anonymous",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Courtside",
+    "slug": "courtside-ua8bb",
+    "description": "Prediction markets settled by AI agents that watch the livestream and stake USDC on being right.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Credence",
+    "slug": "credence-156aa",
+    "description": "AI agents earn authority through verified behavior, not identity or reputation.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Pulse",
+    "slug": "pulse-9uwb8",
+    "description": "Configurable onchain attestation oracle: weighted signals, randomized checks, verifiable outcomes.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "InSync",
+    "slug": "insync-wdb8n",
+    "description": "Trustless physical exchange- Lock payment on-chain before meeting; release in person",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "ENS Subname Manager",
+    "slug": "ens-subname-manager-pj6re",
+    "description": "Onboard anyone to ENS by email; orgs issue, manage, and revoke member subnames at scale.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "SlopStock",
+    "slug": "slopstock-em2jr",
+    "description": "Own the agent, not the token — a harness + protocol for productive, ownable, AI agents.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "HeyLola Foundation",
+    "slug": "heylola-foundation-zwuad",
+    "description": "A live dog platform upgraded with dog-level sponsorship, wallets, payments, and attestations.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ijybm"
+    ]
+  },
+  {
+    "name": "INCOGNITO",
+    "slug": "incognito-q820h",
+    "description": "Provably anonymous whistleblowing - Chainlink TEE, Confidential AI, CRE workflow, attested on-chain.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "FanGuard",
+    "slug": "fanguard-115o7",
+    "description": "Ticket insurance for the game you attended but wish you hadn't",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "8tv2m",
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Ledgit",
+    "slug": "ledgit-kxpph",
+    "description": "Your AI agent fleet just moved $25k — can you prove a human approved it?\" LEDGIT makes it verifiable",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Greenlight",
+    "slug": "greenlight-guhj7",
+    "description": "High-stakes agricultural decision authorization layer signed by verified advisors and gated by chain",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "pearpay",
+    "slug": "pearpay-3co1y",
+    "description": "The Apple Pay for Web3: send crypto in any messaging app using natural language.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cash Stash",
+    "slug": "cash-stash-p1d9y",
+    "description": "cash stash - neobank for 1 billion moms powered by degen yields with automated bridges",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Tollgate",
+    "slug": "tollgate-mt8w3",
+    "description": "Policy-controlled AI spending with Ledger approval for risky actions.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Argos",
+    "slug": "argos-v5zid",
+    "description": "anyone can fake reviews. argos finds erc8004 agents you can trust.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "intentOS",
+    "slug": "intentos-3m9gp",
+    "description": "An EIP-7702 layer: your AI agent trades from your own wallet inside hard limits. Aligned not trusted",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "goHealthMe",
+    "slug": "gohealthme-us1an",
+    "description": "Verified health goals with instant USDC payouts — confidential AI oracle, proof-of-human gated.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Dark Pools",
+    "slug": "dark-pools-pgah9",
+    "description": "Dark pool on Canton: orders stay private via selective disclosure, settled atomically on-ledger",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ddg6s"
+    ]
+  },
+  {
+    "name": "Polity Passport",
+    "slug": "polity-passport-hufkc",
+    "description": "The World's first anonymous passport, building trust between humans and AI.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Bitopia World",
+    "slug": "bitopia-world-6m2wg",
+    "description": "Walk a live isometric world with your ENS identity and USDC wallet built in.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "One Agent",
+    "slug": "one-agent-jko7i",
+    "description": "An on-chain policy firewall that keeps AI DeFi agents inside the rules you set.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "WLD5050",
+    "slug": "wld5050-eyxne",
+    "description": "Human-Verified 50/50 Raffles On World Coin. Verified by World ID. Powered by Chainlink. ENS badges.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Kreditos",
+    "slug": "kreditos-f7y3w",
+    "description": "One standard for business credit lines — issued once, readable by any onchain party.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "TenorFi",
+    "slug": "tenorfi-06wnb",
+    "description": "On-Chain Fixed Funding Rate for Perpetual Markets on Hyperliquid",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "if0ri"
+    ]
+  },
+  {
+    "name": "PassportCreds Node",
+    "slug": "passportcreds-node-peie3",
+    "description": "White-label Compliance Passport for regulated onchain access — powered by Chainlink + Privy",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Vivi Wif",
+    "slug": "vivi-wif-vo58s",
+    "description": "Vivi: bilingual AI money mentor helping women learn, invest, and earn onchain.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Trade Royale",
+    "slug": "trade-royale-esviu",
+    "description": "AI trading battle royale. Your Claude agent, a shielded vault, one bell. Winner takes the pot.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "ijybm"
+    ]
+  },
+  {
+    "name": "GoldenMCP",
+    "slug": "goldenmcp-7i9ki",
+    "description": "An autonomous marketplace to safely discover, verify, and pay AI agents for complex Web3 tasks.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Daemon Hall",
+    "slug": "daemon-hall-d14u4",
+    "description": "Sealed agent prediction-market arena: deposit USDC, whisper strategy, reveal the full chain at end",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "Pacioli",
+    "slug": "pacioli-t6b1w",
+    "description": "zkps for double entry bookkeeping so we can end the banking system",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "flows",
+    "slug": "flows-6ekwb",
+    "description": "Remittance neobank where money you receive builds a credit score for undercollateralized loans.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "opengotchi",
+    "slug": "opengotchi-o2gzf",
+    "description": "opengotchi is a cute pet for your agent that runs gotchios.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "BFB",
+    "slug": "bfb-x0jxw",
+    "description": "One-tap, one-signature exit from any DeFi position - loans, LP, staking, tokens - all to USDC",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "1nz66"
+    ]
+  },
+  {
+    "name": "Access0x1",
+    "slug": "access0x1-kwa4b",
+    "description": "Non-custodial USD-priced crypto payments + commerce for any business — gas-free on Arc, agent-ready.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "The Wallet Shift",
+    "slug": "the-wallet-shift-pqdxy",
+    "description": "DeFiLlama for the on-chain AI agent economy: a live, agent-callable ERC-8004 directory.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "yc3ys"
+    ]
+  },
+  {
+    "name": "Justify",
+    "slug": "justify-pob50",
+    "description": "Creator-based prediction market powered by AI agents and social distribution",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "3zpxc"
+    ]
+  },
+  {
+    "name": "T+0 Settlement",
+    "slug": "t-0-settlement-bjcqg",
+    "description": "Instant settlement on securities via atomic settlements. Combining Klarna-like features to help",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Coffee Trade Unlink",
+    "slug": "coffee-trade-unlink-j3nhe",
+    "description": "Private peer-to-peer commodity trading. Buy and sell with shielded USDC balances via Unlink SDK.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "demo",
+    "slug": "demo-novzs",
+    "description": "211 is a Oregon non-emergency number for social services provided by the government to the homeless",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Jàmm",
+    "slug": "jamm-ertv4",
+    "description": "Sybil-resistant voting for collective organizations — one human, one vote, enforced by World ID.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Void Tactics",
+    "slug": "void-tactics-ag25f",
+    "description": "Tactical onchain fleet combat: Dynamic Flow purchases, World ID sybil resistance, Walrus game replay",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "3zpxc",
+      "xrzks"
+    ]
+  },
+  {
+    "name": "Defi Credit Indices",
+    "slug": "defi-credit-indices-2axvf",
+    "description": "Clean, tradeable indices of consumer-credit health, built from loan-level securitization data.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "PolyHedge",
+    "slug": "polyhedge-eedge",
+    "description": "An agent that knows when NOT to hedge: Chainlink-validated, autonomously Dynamic-executed.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Cumulant",
+    "slug": "cumulant-xfzya",
+    "description": "Structured products on prediction markets - baskets, tranches, PPNs, & continuous markets",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "tc25z"
+    ]
+  },
+  {
+    "name": "Ando (OIL)",
+    "slug": "ando-oil-qxvh4",
+    "description": "Open Inference Layer offers open-source products, tools, and protocols to support decentralized AI",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Seikine",
+    "slug": "seikine-6r7yy",
+    "description": "Lending protocol with portable yield-bearing collateral, ENS position identity + Chainlink breaker",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
+  },
+  {
+    "name": "OpenPop",
+    "slug": "openpop-grkq2",
+    "description": "OpenPop is the OpenClaw of verifiable agent workflows. Proof over Promises.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 2,
+    "prizeBadgeOrgIds": [
+      "tc25z",
+      "f8ku2"
+    ]
+  },
+  {
+    "name": "Velt",
+    "slug": "velt-dsufr",
+    "description": "Pay with your palm in 2 seconds — USDC settled on-chain. No card, no phone, just you.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Proof of Learning",
+    "slug": "proof-of-learning-6f046",
+    "description": "A backend breach yields only ciphertext, and deletion is mathematically provable — not 'trust us.'",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "LYNX",
+    "slug": "lynx-ta08o",
+    "description": "The terminal that turns prediction markets into baskets you can buy beside real assets.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "snevins-agents",
+    "slug": "snevins-agents-bdj3d",
+    "description": "Splitwise tracks shared expenses, balances, and IOUs so groups can split costs and settle up easily",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Wrapsynth",
+    "slug": "wrapsynth-pok1f",
+    "description": "Trustless Wrapped Monero (wsXMR) on EVM. Private DeFi powered by Unlink, Chainlink & Uniswap.",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 0,
+    "prizeBadgeOrgIds": []
+  },
+  {
+    "name": "Nuro Finance",
+    "slug": "nuro-finance-v4i45",
+    "description": "Native On-chain Banking for AI Agents w/ Visa & Ethereum Integration",
+    "event": "ETHGlobal New York 2026",
+    "prizeCount": 1,
+    "prizeBadgeOrgIds": [
+      "bw7y9"
+    ]
   }
 ]

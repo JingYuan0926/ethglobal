@@ -9,6 +9,7 @@ const OUTPUT_FILE = path.join(DATA_DIR, 'listings.json');
 
 // Recent events (2024-2026)
 const EVENTS = [
+  'newyork2026',     // ETHGlobal New York 2026
   'openagents',      // Open Agents (2026)
   'hackmoney2026',
   'buenosaires',
